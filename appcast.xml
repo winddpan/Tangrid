@@ -1,0 +1,12 @@
+<item>
+    <title>Version 0.1.5</title>
+    <sparkle:releaseNotesLink>https://github.com/winddpan/WorkspaceMind/releases/tag/v0.1.5</sparkle:releaseNotesLink>
+    <pubDate>Sun, 16 Nov 2025 16:27:39 +0800</pubDate>
+    <enclosure 
+        url="https://github.com/winddpan/WorkspaceMind/releases/download/v0.1.5/workspace-mind-0.1.5.zip"
+        sparkle:version="1"
+        sparkle:shortVersionString="0.1.5"
+        sparkle:edSignature="sparkle:edSignature="aqMHqY5IsGiF5omzgdeUzdbQLiC1IHfX384MClM4T/HzuIIiua7xMJZjPr0eHavbYkmDX45vgdqyhNipAGrBCw==" length="2520878""
+        length="2520878"
+        type="application/octet-stream" />
+</item>

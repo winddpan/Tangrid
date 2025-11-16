@@ -1,1 +1,1 @@
-# WorkspaceMind
+# WorkspaceMind Release
