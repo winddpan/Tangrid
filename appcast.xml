@@ -10,14 +10,14 @@
     <description>WorkspaceMind Updates</description>
 
     <item>
-      <title>Version 0.1.6</title>
+      <title>Version 0.1.7</title>
       <sparkle:releaseNotesLink>https://raw.githubusercontent.com/winddpan/WorkspaceMind/refs/heads/main/README.md</sparkle:releaseNotesLink>
-      <pubDate>Mon, 17 Nov 2025 01:44:01 +0800</pubDate>
+      <pubDate>Mon, 17 Nov 2025 01:53:52 +0800</pubDate>
       <enclosure
-        url="https://github.com/winddpan/WorkspaceMind/releases/download/0.1.6/workspace-mind-0.1.6.zip"
-        sparkle:version="0.1.6"
-        sparkle:shortVersionString="0.1.6"
-        sparkle:edSignature="Vg7JJsbQCgLPuY1vUs8dRnTWGXMnZoJAtYg/MeS/3f0s5O7TTMmhdOj85pxkA1F1fTtKJy3XxLXYIznYbC6TDw==" length="2525541"
+        url="https://github.com/winddpan/WorkspaceMind/releases/download/0.1.7/workspace-mind-0.1.7.zip"
+        sparkle:version="0.1.7"
+        sparkle:shortVersionString="0.1.7"
+        sparkle:edSignature="KhRH1iglqIi8bK5jm3szHVesFerI3gtFvGAmyATHgvuc1xmloUxKEqvMajtKYq9xNhxkHtZ/jBtzvnGvy9EXDA==" length="2525542"
         type="application/octet-stream" />
     </item>
 
