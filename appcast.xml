@@ -5,16 +5,16 @@
     xmlns:dc="http://purl.org/dc/elements/1.1/">
 
   <channel>
-    <title>WorkspaceMind Updates</title>
-    <link>https://github.com/winddpan/WorkspaceMind</link>
-    <description>WorkspaceMind Updates</description>
+    <title>Tangrid Updates</title>
+    <link>https://github.com/winddpan/Tangrid</link>
+    <description>Tangrid Updates</description>
 
     <item>
       <title>Version 0.1.7</title>
-      <sparkle:releaseNotesLink>https://raw.githubusercontent.com/winddpan/WorkspaceMind/refs/heads/main/README.md</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink>https://raw.githubusercontent.com/winddpan/Tangrid/refs/heads/main/README.md</sparkle:releaseNotesLink>
       <pubDate>Mon, 17 Nov 2025 01:56:01 +0800</pubDate>
       <enclosure
-        url="https://github.com/winddpan/WorkspaceMind/releases/download/0.1.7/workspace-mind-0.1.7.zip"
+        url="https://github.com/winddpan/Tangrid/releases/download/0.1.7/workspace-mind-0.1.7.zip"
         sparkle:version="0.1.7"
         sparkle:shortVersionString="0.1.7"
         sparkle:edSignature="97UeCko7j9+42nwkWIwblK6DvY9flyCAu4qsDF2SUwLvhyWkRAan90QjUEQUyWHvMhWfnDp/J2BNK/oQviSQCQ==" length="2525546"
