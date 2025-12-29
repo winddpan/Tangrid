@@ -10,14 +10,14 @@
     <description>Tangrid Updates</description>
 
     <item>
-      <title>Version 0.1.7</title>
+      <title>Version 0.5.0</title>
       <sparkle:releaseNotesLink>https://raw.githubusercontent.com/winddpan/Tangrid/refs/heads/main/README.md</sparkle:releaseNotesLink>
-      <pubDate>Mon, 17 Nov 2025 01:56:01 +0800</pubDate>
+      <pubDate>Tue, 30 Dec 2025 04:33:27 +0800</pubDate>
       <enclosure
-        url="https://github.com/winddpan/Tangrid/releases/download/0.1.7/workspace-mind-0.1.7.zip"
-        sparkle:version="0.1.7"
-        sparkle:shortVersionString="0.1.7"
-        sparkle:edSignature="97UeCko7j9+42nwkWIwblK6DvY9flyCAu4qsDF2SUwLvhyWkRAan90QjUEQUyWHvMhWfnDp/J2BNK/oQviSQCQ==" length="2525546"
+        url="https://github.com/winddpan/Tangrid/releases/download/0.5.0/tangrid-0.5.0.zip"
+        sparkle:version="0.5.0"
+        sparkle:shortVersionString="0.5.0"
+        sparkle:edSignature="c4NJ1VsiUnbt64+x9fVF58bfdBnuR65Gjkq3dGvXJCBWgAIzcxnfnyaLjrNAqNB+dM7APMrbDicuwRi33LmrBQ==" length="4187625"
         type="application/octet-stream" />
     </item>
 
