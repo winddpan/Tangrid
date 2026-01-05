@@ -12,12 +12,12 @@
     <item>
       <title>Version 0.6.2</title>
       <sparkle:releaseNotesLink>https://raw.githubusercontent.com/winddpan/Tangrid/refs/heads/main/README.md</sparkle:releaseNotesLink>
-      <pubDate>Tue, 06 Jan 2026 01:52:50 +0800</pubDate>
+      <pubDate>Tue, 06 Jan 2026 02:58:11 +0800</pubDate>
       <enclosure
         url="https://github.com/winddpan/Tangrid/releases/download/0.6.2/tangrid-0.6.2.zip"
         sparkle:version="0.6.2"
         sparkle:shortVersionString="0.6.2"
-        sparkle:edSignature="sUS8vmR3RpFQLvlC1262rPS21xDcA9VDNq5k2W19l6q85q4ipIPsTDFDsSsjtahI/2FlA5pAOYI8auH1lkMpBg==" length="5566483"
+        sparkle:edSignature="YvbCZ824JSjlkBqYmnNyrF4+HIqzBgBSPnPZeqigNmUIBUzI1kkP8CrcogvzGm2pyXWHnkjLLWqU3RRMMkPKAw==" length="5558563"
         type="application/octet-stream" />
     </item>
 
