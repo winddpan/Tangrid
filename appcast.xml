@@ -12,12 +12,12 @@
     <item>
       <title>Version 0.8.3</title>
       <sparkle:releaseNotesLink>https://raw.githubusercontent.com/winddpan/Tangrid/refs/heads/main/README.md</sparkle:releaseNotesLink>
-      <pubDate>Mon, 19 Jan 2026 23:37:29 +0800</pubDate>
+      <pubDate>Mon, 19 Jan 2026 23:59:41 +0800</pubDate>
       <enclosure
         url="https://github.com/winddpan/Tangrid/releases/download/0.8.3/tangrid-0.8.3.zip"
         sparkle:version="0.8.3"
         sparkle:shortVersionString="0.8.3"
-        sparkle:edSignature="JPb4zjYq3aq6waLRCfBE9p4b3eX9XfyFfScmZr5wBhg6wgNa+rXEKqx/R26ZPOaBTu2cVAocR4LW2w78u81SCA==" length="14721523"
+        sparkle:edSignature="tYvpcDI5RJyDlptIw0vxrzCmiAyH1Bm4/agr7L9B3Ix9jC+Yd0otYfsOGXzL4Ek+uwNiWLyBdpxFHnvQjL4+BQ==" length="14721943"
         type="application/octet-stream" />
     </item>
 
