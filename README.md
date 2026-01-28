@@ -1,3 +1,9 @@
+0.9.2
+* 修复自动布局时cmd+h后没有正确处理的bug
+* 修复WindowSwitcher列表模式的一些bug
+* 去除Dock预览5个窗口的限制
+* 修复在macOS 15的一些问题
+
 0.9.1
 * Dock预览新增鼠标中键、右键动作选项
 * cmd+tab 支持 cmd+` 选中上一个
