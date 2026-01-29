@@ -1,3 +1,6 @@
+0.9.3
+* 优化cmd+tab的加载速度
+
 0.9.2
 * 修复自动布局时cmd+h后没有正确处理的bug
 * 修复WindowSwitcher列表模式的一些bug
