@@ -1,99 +1,112 @@
-0.10.1
-* 修复自动平铺模式下，快捷键居中窗口出现的异常
-* 优化窗口切换器纵向模式的引导和设置
-* 优化了纵向模式窗口切换器的UI
+# Version History
 
-0.10.0
-* 窗口切换器、Dock预览支持鼠标和触控板手势，支持十多个动作设置
-* Dock预览器和切换器支持动态刷新缩略图、最小化状态
-* 设置Option拖动时，动态屏蔽系统的Option+左键点击隐藏上一个窗口的功能，更换其他修饰键时会恢复
+## 0.10.2
+* Fixed a bug where layouts would not work properly in multi-monitor scenarios
+* Fixed a bug where refresh would occasionally fail after app process termination
+* Cmd+Tab now supports mouse scroll for window switching, configurable in mouse actions
+* Fixed unexpected scrolling when selecting with mouse in Cmd+Tab vertical mode
+* Added application blacklist feature for Cmd+Tab
+* Fixed unhandled mouse gesture actions in Cmd+Tab vertical mode
+* Fixed visual anomaly where Dock bar would disappear but preview window would remain visible when clicking on a full-screen app's dock icon
+* Fixed issue where diagonal mouse movements would trigger preview of adjacent applications in Dock preview window
+* Added Esc key support to exit Dock preview window
 
-0.9.3
-* 优化cmd+tab的加载速度
+## 0.10.1
+* Fixed anomalies when centering windows via shortcut in auto-tiling mode
+* Improved guidance and settings for window switcher vertical mode
+* Optimized UI for vertical mode window switcher
 
-0.9.2
-* 修复自动布局时cmd+h后没有正确处理的bug
-* 修复WindowSwitcher列表模式的一些bug
-* 去除Dock预览5个窗口的限制
-* 修复在macOS 15的一些问题
+## 0.10.0
+* Window switcher and Dock preview now support mouse and trackpad gestures with over a dozen configurable actions
+* Dock preview and switcher now support dynamic thumbnail refresh and minimized state display
+* When Option-drag is enabled, the system's Option+left-click function to hide previous window is dynamically disabled; it restores when switching to other modifier keys
 
-0.9.1
-* Dock预览新增鼠标中键、右键动作选项
-* cmd+tab 支持 cmd+` 选中上一个
-* 修复取消快捷键无法记住的bug
-* 修复切换Snap/Tiling模式切换后没有正确重置的bug
+## 0.9.3
+* Optimized Cmd+Tab loading speed
 
-0.9.0
-* 新增窗口切换器列表模式（带搜索）
-* 新增窗口微调：打开窗口自动居中
-* 修复bug反馈
+## 0.9.2
+* Fixed bug where windows were not handled correctly after Cmd+H in auto-layout mode
+* Fixed several bugs in WindowSwitcher list mode
+* Removed the 5-window limitation for Dock preview
+* Fixed various issues on macOS 15
 
-0.8.7
-* 修复增减显示器布局失效的bug
-* 修复部分启动时有弹窗的APP无法自动布局的bug
-* 持续优化吸附辅助的完整体验
+## 0.9.1
+* Added middle-click and right-click action options for Dock preview
+* Cmd+Tab now supports Cmd+` to select previous item
+* Fixed bug where shortcut cancellation would not be remembered
+* Fixed bug where switching between Snap/Tiling modes would not reset correctly
 
-0.8.6
-* 提高了窗口组稳定性，修复多space窗口错乱的问题
+## 0.9.0
+* Added window switcher list mode (with search)
+* Added window fine-tuning: auto-center newly opened windows
+* Fixed reported bugs
 
-0.8.5
-* 修复底层架构变动导致的一些布局相关bug
-* 修复其他app冲突导致布局缓慢失效的bug
+## 0.8.7
+* Fixed bug where layout would fail when adding or removing monitors
+* Fixed bug where apps with startup dialogs could not auto-layout
+* Continued optimization of the complete snap assist experience
 
-0.8.4
-* 新增：点按Dock图标最小化活动窗口
+## 0.8.6
+* Improved window group stability, fixed window misalignment issues across multiple spaces
 
-0.8.3
-* 修复微信等App可能出现幽灵窗口的bug
-* 修复吸附辅助模式自动平铺窗口没有起效的bug
-* 整体优化吸附辅助模式辅助键拖动时的交互体验
-* 修复Adobe Illustrator等软件无法平铺的问题
+## 0.8.5
+* Fixed several layout-related bugs caused by underlying architecture changes
+* Fixed bug where conflicts with other apps caused layout to fail slowly
 
-0.8.2
-* 新建窗口非平铺状态不会闪烁
-* 修复布局块解散后重组可能出现方向与预期不一致的bug
-* 平铺状态也能把小窗口移到大窗口内分割大窗口
+## 0.8.4
+* Added: Click Dock icon to minimize active window
 
-0.8.0
-* 重构布局引擎，使用BSP布局
-* 默认悬浮/平铺模式 -> 吸附辅助/自动流式布局
-* Onboarding引导
+## 0.8.3
+* Fixed ghost window bug that could occur in apps like WeChat
+* Fixed bug where auto-tiling windows were not working in snap assist mode
+* Overall optimization of interaction experience when dragging with modifier keys in snap assist mode
+* Fixed tiling issues with software like Adobe Illustrator
 
-0.7.0
-* 新增：Dock预览
-* 重新设计了了CmdTab的UI，与Dock预览保持一致风格
-* 可选多种液态玻璃效果
-* 可自定义预览窗口尺寸
+## 0.8.2
+* New windows no longer flicker when not in tiled state
+* Fixed bug where regrouping after layout block dissolution could result in unexpected orientation
+* Small windows can now be moved into large windows to split them even in tiled state
 
-0.6.3
-* 极大地提高了窗口的稳定性
-* 新增两组四向快捷键：聚焦窗口、移动窗口
-* 统一设计了平铺/悬浮转换的过渡动画
+## 0.8.0
+* Refactored layout engine to use BSP (Binary Space Partitioning) layout
+* Changed default floating/tiling mode to snap assist/auto-flow layout
+* Added onboarding guide
 
-0.6.0
-* 新增：单窗口自动浮动选项（默认打开）
-* 新增：实时计算窗口最小尺寸，尽量在任何时候让窗口不超出屏幕
-* 新增：拾取窗口菜单按钮
-* 新增：均分窗口菜单按钮和快捷键
-* 新增：新打开窗口放置位置选项
-* 优化：调节间距参数实时生效
-* 优化：悬浮窗口的过渡动画
-* 优化：悬浮记住位置的逻辑
-* 优化：预置了多个悬浮窗口规则
-* 修复：斜着调整窗口尺寸不跟手的问题
+## 0.7.0
+* Added: Dock preview
+* Redesigned Cmd+Tab UI to maintain consistent style with Dock preview
+* Multiple liquid glass effects available
+* Customizable preview window size
 
-0.5.5
-* 解决了可能拦截方向键的bug
-* MissionControl拖拽窗口到不同桌面后会进行正确刷新
-* 窗口切换增加粘滞窗口模式选项
+## 0.6.3
+* Greatly improved window stability
+* Added two sets of four-directional shortcuts: focus window and move window
+* Unified transition animation design for tiling/floating mode switching
 
-0.5.3
-* 录入快捷键时不再触发响应动作
+## 0.6.0
+* Added: Single window auto-float option (enabled by default)
+* Added: Real-time calculation of minimum window size to prevent windows from exceeding screen bounds whenever possible
+* Added: Pick window menu button
+* Added: Equalize windows menu button and shortcut
+* Added: New window placement position option
+* Optimized: Spacing parameter adjustments now take effect in real-time
+* Optimized: Transition animations for floating windows
+* Optimized: Logic for remembering floating window positions
+* Optimized: Preset multiple floating window rules
+* Fixed: Issue where diagonal window resizing was not responsive
 
-0.5.2
-* 新增授权管理页，解决首次启动没有效果的bug
-* 修复快捷键的一些问题
-* 修复全屏窗在某些场景不平铺的问题
-* 修复了偶尔新建窗口没有平铺的bug
-* 调整了切换器在Light模式下的UI
-* 新增 cmd+shift+tab 反向切换
+## 0.5.5
+* Fixed bug that could intercept arrow keys
+* Correct refresh now occurs after dragging windows to different desktops in Mission Control
+* Added sticky window mode option for window switching
+
+## 0.5.3
+* Shortcut recording no longer triggers corresponding actions
+
+## 0.5.2
+* Added permission management page to resolve bug where app had no effect on first launch
+* Fixed several shortcut issues
+* Fixed issue where full-screen windows would not tile in certain scenarios
+* Fixed occasional bug where newly created windows would not tile
+* Adjusted switcher UI for Light mode
+* Added Cmd+Shift+Tab for reverse switching
