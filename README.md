@@ -1,5 +1,10 @@
 # Version History
 
+## 0.10.3
+* Fixed the issue where switching between multiple tabs could result in empty placeholders being left.
+* Fixed the problem where quitting the app using cmd + q still left a blank placeholder.
+* Brave Browser can now be tiled properly without issues.
+
 ## 0.10.2
 * Fixed a bug where layouts would not work properly in multi-monitor scenarios
 * Fixed a bug where refresh would occasionally fail after app process termination
