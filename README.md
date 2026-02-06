@@ -1,5 +1,9 @@
 # Version History
 
+## 0.10.4
+* Fixed an issue where the Esc key input could be swallowed.
+* Improved the stability of layout refreshes.
+
 ## 0.10.3
 * Fixed the issue where switching between multiple tabs could result in empty placeholders being left.
 * Fixed the problem where quitting the app using cmd + q still left a blank placeholder.
