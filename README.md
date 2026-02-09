@@ -1,5 +1,11 @@
 # Version History
 
+## 0.10.5
+* Window Switcher: Added an option to automatically move the cursor to the target window.
+* Improved the stability of layout refresh behavior.
+* Fixed multiple known issues reported by users.
+* Reduced the app package size.
+
 ## 0.10.4
 * Fixed an issue where the Esc key input could be swallowed.
 * Improved the stability of layout refreshes.
