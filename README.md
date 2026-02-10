@@ -1,5 +1,10 @@
 # Version History
 
+## 0.10.6
+* Fixed an issue where window previews would fail for windows positioned outside the screen bounds
+* Added an exclusion list for the Auto-Center Window on Open feature, allowing specific windows to opt out of automatic centering
+* Improved window layout behavior: windows smaller than the minimum size threshold now automatically expand and push adjacent windows forward to minimize overlap
+
 ## 0.10.5
 * Window Switcher: Added an option to automatically move the cursor to the target window.
 * Improved the stability of layout refresh behavior.
