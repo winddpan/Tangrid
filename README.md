@@ -1,5 +1,9 @@
 # Version History
 
+## 0.10.7
+* Fixed mouse hover preview window delay on certain devices
+* Added window effect Toggle: Window movement animations, Border flash when switching between tiled and floating modes
+
 ## 0.10.6
 * Fixed an issue where window previews would fail for windows positioned outside the screen bounds
 * Added an exclusion list for the Auto-Center Window on Open feature, allowing specific windows to opt out of automatic centering
