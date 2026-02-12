@@ -1,5 +1,9 @@
 # Version History
 
+## 0.10.8
+* Fixed an issue where using cmd+` incorrectly triggered all window switchers
+* Fixed an occasional issue in Snap mode where releasing the mouse failed to place the window correctly
+
 ## 0.10.7
 * Fixed mouse hover preview window delay on certain devices
 * Added window effect Toggle: Window movement animations, Border flash when switching between tiled and floating modes
