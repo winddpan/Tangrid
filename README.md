@@ -1,5 +1,10 @@
 # Version History
 
+## 0.11.0
+* New: Added support for customizable keyboard shortcuts to move the current window to specific displays or Desktop Spaces.
+* Improved: Enhanced the overall stability and performance of the window management engine.
+* Fixed: Resolved an issue where the Cmd + ` shortcut exhibited inconsistent behavior during window switching.
+
 ## 0.10.8
 * Fixed an issue where using cmd+` incorrectly triggered all window switchers
 * Fixed an occasional issue in Snap mode where releasing the mouse failed to place the window correctly
