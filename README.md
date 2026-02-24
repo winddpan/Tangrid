@@ -1,5 +1,11 @@
 # Version History
 
+## 0.11.1
+* Improved: Fixed an issue where mouse highlight in window preview could behave incorrectly after closing a window.
+* Fixed: Resolved an issue where Move to Space shortcuts did not work for some app windows.
+* Added: New window switcher scope option to show only windows on the current active desktop.
+* Added: Added keyboard shortcuts for quick window resizing.
+
 ## 0.11.0
 * New: Added support for customizable keyboard shortcuts to move the current window to specific displays or Desktop Spaces.
 * Improved: Enhanced the overall stability and performance of the window management engine.
