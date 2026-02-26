@@ -1,5 +1,13 @@
 # Version History
 
+## 0.12.0
+* Added a new Mouse Modifier Key for moving and resizing windows from anywhere.
+* Holding the drag modifier key now lets you drag a window from any position.
+* Added shortcut conflict alerts to help identify and resolve keybinding issues.
+* Fixed an issue where windows could occasionally become unmanaged.
+* The dropdown menu now lists all shortcuts.
+* Improved reliability when moving windows to desktops or displays via shortcuts.
+
 ## 0.11.1
 * Improved: Fixed an issue where mouse highlight in window preview could behave incorrectly after closing a window.
 * Fixed: Resolved an issue where Move to Space shortcuts did not work for some app windows.
