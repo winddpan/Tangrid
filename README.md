@@ -1,5 +1,10 @@
 # Version History
 
+## 0.12.1
+* Fixed an issue where drag modifier keys interfered with modifier + left-click.
+* Fixed an issue where Fn did not work as a drag modifier key.
+* Fixed an issue in Assist Snap mode where mouse modifier + right-drag could not resize windows.
+
 ## 0.12.0
 * Added a new Mouse Modifier Key for moving and resizing windows from anywhere.
 * Holding the drag modifier key now lets you drag a window from any position.
