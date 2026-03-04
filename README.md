@@ -1,11 +1,31 @@
-# Version History
+### 0.13.0
+**New**
+- Added macOS traffic-light controls (close/minimize/fullscreen) to window preview cards, with configurable left/right placement for both Window Switcher and Dock Preview.
+- Enhanced Window Switcher interactions: use `Cmd + number` for quick row selection, and `/` to toggle search focus in vertical mode.
+- Added cyclic move for focused windows across Spaces and Screens (wrap-around at boundaries).
+- Improved menu bar workflow: added status bar menu visibility toggle and better settings window activation behavior in menu-bar mode.
 
-## 0.12.1
+**Improvements**
+- Made Window Switcher layout more responsive across display sizes, especially on smaller screens.
+- Improved fullscreen state tracking and preview refresh timing to reduce visual glitches during fullscreen transitions.
+- Upgraded Snap move interactions with clearer drop behaviors: insert, replace/swap, and top-edge fullscreen targeting.
+- Refined Snap move/resize internals for more stable edge handling and candidate resolution.
+
+**Fixes**
+- Fixed Dock hover preview not triggering when Dock is at the bottom and the pointer is on another display.
+- Fixed Flow mode restore behavior so unminimized windows are placed near their prior location more reliably.
+- Fixed accidental hover triggers during scrolling when the pointer itself does not move.
+- Fixed multiple Snap resize edge cases to improve final sizing accuracy and reduce rebound issues.
+
+**Behavior Changes**
+- Window rules are now Flow-centric: rules are editable/effective in Auto Flow mode, and Snap-rule logic has been removed.
+
+### 0.12.1
 * Fixed an issue where drag modifier keys interfered with modifier + left-click.
 * Fixed an issue where Fn did not work as a drag modifier key.
 * Fixed an issue in Assist Snap mode where mouse modifier + right-drag could not resize windows.
 
-## 0.12.0
+### 0.12.0
 * Added a new Mouse Modifier Key for moving and resizing windows from anywhere.
 * Holding the drag modifier key now lets you drag a window from any position.
 * Added shortcut conflict alerts to help identify and resolve keybinding issues.
@@ -13,46 +33,46 @@
 * The dropdown menu now lists all shortcuts.
 * Improved reliability when moving windows to desktops or displays via shortcuts.
 
-## 0.11.1
+### 0.11.1
 * Improved: Fixed an issue where mouse highlight in window preview could behave incorrectly after closing a window.
 * Fixed: Resolved an issue where Move to Space shortcuts did not work for some app windows.
 * Added: New window switcher scope option to show only windows on the current active desktop.
 * Added: Added keyboard shortcuts for quick window resizing.
 
-## 0.11.0
+### 0.11.0
 * New: Added support for customizable keyboard shortcuts to move the current window to specific displays or Desktop Spaces.
 * Improved: Enhanced the overall stability and performance of the window management engine.
 * Fixed: Resolved an issue where the Cmd + ` shortcut exhibited inconsistent behavior during window switching.
 
-## 0.10.8
+### 0.10.8
 * Fixed an issue where using cmd+` incorrectly triggered all window switchers
 * Fixed an occasional issue in Snap mode where releasing the mouse failed to place the window correctly
 
-## 0.10.7
+### 0.10.7
 * Fixed mouse hover preview window delay on certain devices
 * Added window effect Toggle: Window movement animations, Border flash when switching between tiled and floating modes
 
-## 0.10.6
+### 0.10.6
 * Fixed an issue where window previews would fail for windows positioned outside the screen bounds
 * Added an exclusion list for the Auto-Center Window on Open feature, allowing specific windows to opt out of automatic centering
 * Improved window layout behavior: windows smaller than the minimum size threshold now automatically expand and push adjacent windows forward to minimize overlap
 
-## 0.10.5
+### 0.10.5
 * Window Switcher: Added an option to automatically move the cursor to the target window.
 * Improved the stability of layout refresh behavior.
 * Fixed multiple known issues reported by users.
 * Reduced the app package size.
 
-## 0.10.4
+### 0.10.4
 * Fixed an issue where the Esc key input could be swallowed.
 * Improved the stability of layout refreshes.
 
-## 0.10.3
+### 0.10.3
 * Fixed the issue where switching between multiple tabs could result in empty placeholders being left.
 * Fixed the problem where quitting the app using cmd + q still left a blank placeholder.
 * Brave Browser can now be tiled properly without issues.
 
-## 0.10.2
+### 0.10.2
 * Fixed a bug where layouts would not work properly in multi-monitor scenarios
 * Fixed a bug where refresh would occasionally fail after app process termination
 * Cmd+Tab now supports mouse scroll for window switching, configurable in mouse actions
@@ -63,79 +83,79 @@
 * Fixed issue where diagonal mouse movements would trigger preview of adjacent applications in Dock preview window
 * Added Esc key support to exit Dock preview window
 
-## 0.10.1
+### 0.10.1
 * Fixed anomalies when centering windows via shortcut in auto-tiling mode
 * Improved guidance and settings for window switcher vertical mode
 * Optimized UI for vertical mode window switcher
 
-## 0.10.0
+### 0.10.0
 * Window switcher and Dock preview now support mouse and trackpad gestures with over a dozen configurable actions
 * Dock preview and switcher now support dynamic thumbnail refresh and minimized state display
 * When Option-drag is enabled, the system's Option+left-click function to hide previous window is dynamically disabled; it restores when switching to other modifier keys
 
-## 0.9.3
+### 0.9.3
 * Optimized Cmd+Tab loading speed
 
-## 0.9.2
+### 0.9.2
 * Fixed bug where windows were not handled correctly after Cmd+H in auto-layout mode
 * Fixed several bugs in WindowSwitcher list mode
 * Removed the 5-window limitation for Dock preview
 * Fixed various issues on macOS 15
 
-## 0.9.1
+### 0.9.1
 * Added middle-click and right-click action options for Dock preview
 * Cmd+Tab now supports Cmd+` to select previous item
 * Fixed bug where shortcut cancellation would not be remembered
 * Fixed bug where switching between Snap/Tiling modes would not reset correctly
 
-## 0.9.0
+### 0.9.0
 * Added window switcher list mode (with search)
 * Added window fine-tuning: auto-center newly opened windows
 * Fixed reported bugs
 
-## 0.8.7
+### 0.8.7
 * Fixed bug where layout would fail when adding or removing monitors
 * Fixed bug where apps with startup dialogs could not auto-layout
 * Continued optimization of the complete snap assist experience
 
-## 0.8.6
+### 0.8.6
 * Improved window group stability, fixed window misalignment issues across multiple spaces
 
-## 0.8.5
+### 0.8.5
 * Fixed several layout-related bugs caused by underlying architecture changes
 * Fixed bug where conflicts with other apps caused layout to fail slowly
 
-## 0.8.4
+### 0.8.4
 * Added: Click Dock icon to minimize active window
 
-## 0.8.3
+### 0.8.3
 * Fixed ghost window bug that could occur in apps like WeChat
 * Fixed bug where auto-tiling windows were not working in snap assist mode
 * Overall optimization of interaction experience when dragging with modifier keys in snap assist mode
 * Fixed tiling issues with software like Adobe Illustrator
 
-## 0.8.2
+### 0.8.2
 * New windows no longer flicker when not in tiled state
 * Fixed bug where regrouping after layout block dissolution could result in unexpected orientation
 * Small windows can now be moved into large windows to split them even in tiled state
 
-## 0.8.0
+### 0.8.0
 * Refactored layout engine to use BSP (Binary Space Partitioning) layout
 * Changed default floating/tiling mode to snap assist/auto-flow layout
 * Added onboarding guide
 
-## 0.7.0
+### 0.7.0
 * Added: Dock preview
 * Redesigned Cmd+Tab UI to maintain consistent style with Dock preview
 * Multiple liquid glass effects available
 * Customizable preview window size
 
-## 0.6.3
+### 0.6.3
 * Greatly improved window stability
 * Added two sets of four-directional shortcuts: focus window and move window
 * Unified transition animation design for tiling/floating mode switching
 
-## 0.6.0
+### 0.6.0
 * Added: Single window auto-float option (enabled by default)
 * Added: Real-time calculation of minimum window size to prevent windows from exceeding screen bounds whenever possible
 * Added: Pick window menu button
@@ -147,15 +167,15 @@
 * Optimized: Preset multiple floating window rules
 * Fixed: Issue where diagonal window resizing was not responsive
 
-## 0.5.5
+### 0.5.5
 * Fixed bug that could intercept arrow keys
 * Correct refresh now occurs after dragging windows to different desktops in Mission Control
 * Added sticky window mode option for window switching
 
-## 0.5.3
+### 0.5.3
 * Shortcut recording no longer triggers corresponding actions
 
-## 0.5.2
+### 0.5.2
 * Added permission management page to resolve bug where app had no effect on first launch
 * Fixed several shortcut issues
 * Fixed issue where full-screen windows would not tile in certain scenarios
