@@ -1,4 +1,24 @@
-# Version History
+## 0.13.0
+**New**
+- Added macOS traffic-light controls (close/minimize/fullscreen) to window preview cards, with configurable left/right placement for both Window Switcher and Dock Preview.
+- Enhanced Window Switcher interactions: use `Cmd + number` for quick row selection, and `/` to toggle search focus in vertical mode.
+- Added cyclic move for focused windows across Spaces and Screens (wrap-around at boundaries).
+- Improved menu bar workflow: added status bar menu visibility toggle and better settings window activation behavior in menu-bar mode.
+
+**Improvements**
+- Made Window Switcher layout more responsive across display sizes, especially on smaller screens.
+- Improved fullscreen state tracking and preview refresh timing to reduce visual glitches during fullscreen transitions.
+- Upgraded Snap move interactions with clearer drop behaviors: insert, replace/swap, and top-edge fullscreen targeting.
+- Refined Snap move/resize internals for more stable edge handling and candidate resolution.
+
+**Fixes**
+- Fixed Dock hover preview not triggering when Dock is at the bottom and the pointer is on another display.
+- Fixed Flow mode restore behavior so unminimized windows are placed near their prior location more reliably.
+- Fixed accidental hover triggers during scrolling when the pointer itself does not move.
+- Fixed multiple Snap resize edge cases to improve final sizing accuracy and reduce rebound issues.
+
+**Behavior Changes**
+- Window rules are now Flow-centric: rules are editable/effective in Auto Flow mode, and Snap-rule logic has been removed.
 
 ## 0.12.1
 * Fixed an issue where drag modifier keys interfered with modifier + left-click.
