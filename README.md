@@ -1,3 +1,9 @@
+## 0.13.1
+- Added a Dock click behavior option to minimize apps with a single window (Windows-like behavior).
+- Improved Window Switcher to correctly display windows from multi-process app groups (e.g., Steam, Minecraft).
+- Fixed an issue where window actions could incorrectly snap back to the original desktop in specific scenarios.
+- Enhanced focus-switching stability to reduce occasional switching failures.
+
 ## 0.13.0
 **New**
 - Added macOS traffic-light controls (close/minimize/fullscreen) to window preview cards, with configurable left/right placement for both Window Switcher and Dock Preview.
