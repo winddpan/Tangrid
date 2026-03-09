@@ -1,3 +1,7 @@
+## 0.13.2
+- Fixed an issue where disabling the window management module could unexpectedly affect window behavior
+- Improved support for combined modifier keys in the window switcher and drag modifier settings
+
 ## 0.13.1
 - Added a Dock click behavior option to minimize apps with a single window (Windows-like behavior).
 - Improved Window Switcher to correctly display windows from multi-process app groups (e.g., Steam, Minecraft).
