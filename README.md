@@ -1,3 +1,7 @@
+## 0.13.3
+- Added support for `Cmd + Q`, `Cmd + W`, and `Cmd + M` shortcuts in the Window Switcher and Dock Preview.
+- Fixed an issue where some windows did not reappear in the Window Switcher and Dock Preview after being closed and reopened.
+
 ## 0.13.2
 - Fixed an issue where disabling the window management module could unexpectedly affect window behavior
 - Improved support for combined modifier keys in the window switcher and drag modifier settings
