@@ -1,3 +1,6 @@
+## 0.13.5
+- Fixed an issue where the Auto Arrange Windows feature was not displayed
+
 ## 0.13.4
 - Fixed an issue where “Move Window to Space/Display” shortcut changes did not take effect immediately
 - Fixed incorrect window counts in the window switcher and Dock previews after repeatedly closing and reopening windows

@@ -10,16 +10,16 @@
     <description>Tangrid Updates</description>
 
     <item>
-      <title>Version 0.13.4</title>
+      <title>Version 0.13.5</title>
       <sparkle:releaseNotesLink xml:lang="en">https://raw.githubusercontent.com/winddpan/Tangrid/refs/heads/main/README.md</sparkle:releaseNotesLink>
       <sparkle:releaseNotesLink xml:lang="zh-CN">https://raw.githubusercontent.com/winddpan/Tangrid/refs/heads/main/README-CN.md</sparkle:releaseNotesLink>
-      <pubDate>Fri, 13 Mar 2026 01:57:59 +0800</pubDate>
+      <pubDate>Fri, 13 Mar 2026 03:27:39 +0800</pubDate>
       <enclosure
-        url="https://github.com/winddpan/Tangrid/releases/download/0.13.4/tangrid-0.13.4.zip"
-        sparkle:version="0.13.4"
-        sparkle:shortVersionString="0.13.4"
-        length="14958788"
-        sparkle:edSignature="zRkNFAuXWV0edcXbsbK5O0tg/9sqKlX5vgDRgwgFz8gh2BiMIEGlCbgQPryOtMNZbK+0qpYLDRIZ74LdBPwNAw=="
+        url="https://github.com/winddpan/Tangrid/releases/download/0.13.5/tangrid-0.13.5.zip"
+        sparkle:version="0.13.5"
+        sparkle:shortVersionString="0.13.5"
+        length="14959168"
+        sparkle:edSignature="ehU6uQOq9IUnAJvDre/EiLtdYstjabWjeBWlpHww8YkRNXLXXcoZHDJQABiKu5/ATNN9QjeGzjdk0UIwOFEnBQ=="
         type="application/octet-stream" />
     </item>
 
