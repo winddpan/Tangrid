@@ -1,3 +1,10 @@
+## 0.13.4
+- Fixed an issue where “Move Window to Space/Display” shortcut changes did not take effect immediately
+- Fixed incorrect window counts in the window switcher and Dock previews after repeatedly closing and reopening windows
+- Fixed issues where some features could start or stop incorrectly when window management was disabled
+- Added automatic window arrangement to Snap mode, default shortcut `Cmd + Shift + R`
+- Updated the `Cmd + `` window switching order to match macOS system behavior
+
 ## 0.13.3
 - Added support for `Cmd + Q`, `Cmd + W`, and `Cmd + M` shortcuts in the Window Switcher and Dock Preview.
 - Fixed an issue where some windows did not reappear in the Window Switcher and Dock Preview after being closed and reopened.
