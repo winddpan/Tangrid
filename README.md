@@ -1,3 +1,9 @@
+## 0.13.6
+- Improved window resizing: +/- shortcuts now work in all modes, with added support for resizing windows using modifier keys + mouse wheel
+- Fixed an issue where windows could fail to be managed properly after wake in some cases
+- Fixed a window offset issue in Snap mode when pressing ⌘⇧R repeatedly
+- Fixed an issue in Snap mode where some multi-tab windows would fail to snap
+
 ## 0.13.5
 - Fixed an issue where the Auto Arrange Windows feature was not displayed
 
