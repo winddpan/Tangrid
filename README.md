@@ -1,3 +1,8 @@
+## 0.13.7
+- Fixed an issue where the window switcher could select the wrong default window after using `Cmd + Q`
+- Improved the stability of window management state, especially after closing tabs in multi-tab windows (eg: Ghostty)
+- Fixed an issue where switching windows could sometimes raise a non-target window instead of the intended one
+
 ## 0.13.6
 - Improved window resizing: +/- shortcuts now work in all modes, with added support for resizing windows using modifier keys + mouse wheel
 - Fixed an issue where windows could fail to be managed properly after wake in some cases
