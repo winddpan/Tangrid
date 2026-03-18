@@ -1,7 +1,11 @@
+## 0.13.8
+- Fixed an issue where switching windows could incorrectly activate a non-target window
+- Improved animation consistency when restoring from minimization or creating a new window, now matching window movement animations
+- Fixed an issue in Snap mode where auto-arrange did not correctly handle windows in the floating window list
+
 ## 0.13.7
 - Fixed an issue where the window switcher could select the wrong default window after using `Cmd + Q`
 - Improved the stability of window management state, especially after closing tabs in multi-tab windows (eg: Ghostty)
-- Fixed an issue where switching windows could sometimes raise a non-target window instead of the intended one
 
 ## 0.13.6
 - Improved window resizing: +/- shortcuts now work in all modes, with added support for resizing windows using modifier keys + mouse wheel
