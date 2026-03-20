@@ -1,3 +1,8 @@
+## 0.13.9
+- Fixed an issue where the window switcher did not default to the second item during app startup
+- Reduced window border thickness on macOS versions below 26
+- Fixed an issue where Adobe Premiere was not managed correctly
+
 ## 0.13.8
 - Fixed an issue where switching windows could incorrectly activate a non-target window
 - Improved animation consistency when restoring from minimization or creating a new window, now matching window movement animations
