@@ -1,3 +1,10 @@
+## 0.14.0
+- New：Added tabbed mode to Auto Tiling
+	- Introduced two shortcut key sets for tabbed mode
+	- Window movement and focus switching shortcuts now support tabbed mode
+	- Refined drag interactions in Auto Tiling for a more intuitive tabbed mode experience
+- Fixed: Resolved an issue where some shortcuts remained active after disabling the window manager
+
 ## 0.13.9
 - Fixed an issue where the window switcher did not default to the second item during app startup
 - Reduced window border thickness on macOS versions below 26
