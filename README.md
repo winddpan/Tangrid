@@ -1,3 +1,7 @@
+## 0.14.1
+- Refreshed app icon
+- Improved Tab Mode stability to reduce unexpected exits after sleep and similar scenarios
+
 ## 0.14.0
 - New：Added tabbed mode to Auto Tiling
 	- Introduced two shortcut key sets for tabbed mode
