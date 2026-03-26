@@ -1,3 +1,7 @@
+## 0.14.2
+- Refined the tabbed interface to improve interaction consistency and predictability.
+- Added window preview support to the Window Switcher, Dock previews, and tabs. Disabled by default.
+
 ## 0.14.1
 - Refreshed app icon
 - Improved Tab Mode stability to reduce unexpected exits after sleep and similar scenarios
