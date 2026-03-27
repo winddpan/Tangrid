@@ -1,3 +1,11 @@
+## 0.14.3
+- Added a new Auto Flow Layout option, with support for Prefer Split, Prefer Tabbed, Auto-tab Small Splits.
+- Improving the tab UX.
+- Improved rounded window borders to perfect match different window corner radii.
+- Fixed an issue where keyboard shortcuts for switching the focused window could fail when tabbed and split layouts were used together.
+- Improved the stability of tabbed and split layouts.
+- Fixed a bug where window previews could occasionally fail to dismiss correctly.
+
 ## 0.14.2
 - Refined the tabbed interface to improve interaction consistency and predictability.
 - Added window preview support to the Window Switcher, Dock previews, and tabs. Disabled by default.
