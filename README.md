@@ -1,3 +1,9 @@
+## 0.14.4
+- Tabbed Layout: Windows of similar sizes now automatically group into tabs.
+- Performance: Improves Cmd + Tab responsiveness and optimizes overall CPU and memory usage.
+- UI Improvements: Adds a yellow overlay to minimized window previews for clearer status indication.
+- Bug Fixes: Resolves an issue that may cause the app to quit unexpectedly.
+
 ## 0.14.3
 - Added a new Auto Flow Layout option, with support for Prefer Split, Prefer Tabbed, Auto-tab Small Splits.
 - Improving the tab UX.
