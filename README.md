@@ -1,3 +1,8 @@
+## 0.14.5
+- Fixed a visual issue with tabs when switching system appearance
+- Resolved an issue where tab previews might occasionally remain visible
+- Improved the stability of window switching
+
 ## 0.14.4
 - Tabbed Layout: Windows of similar sizes now automatically group into tabs.
 - Performance: Improves Cmd + Tab responsiveness and optimizes overall CPU and memory usage.
