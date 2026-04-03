@@ -1,3 +1,8 @@
+## 0.14.6
+- Fixed an issue where window transition animations could be triggered unexpectedly
+- Improved Dock preview interactions to prevent accidental activation of live window positions while moving the cursor
+- Improved the reliability of focused window actions
+
 ## 0.14.5
 - Fixed a visual issue with tabs when switching system appearance
 - Resolved an issue where tab previews might occasionally remain visible
