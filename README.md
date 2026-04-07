@@ -1,3 +1,10 @@
+## 0.14.7
+- Fixed an issue that could cause the app to crash  
+- Added support for running Tangrid independently across multiple system accounts  
+- Refined the UX and visual details of the flashing border  
+- Improved the Dock preview UI when the preview window is narrow  
+- Optimized window behavior after waking from sleep to reduce unexpected jumping
+
 ## 0.14.6
 - Fixed an issue where window transition animations could be triggered unexpectedly
 - Improved Dock preview interactions to prevent accidental activation of live window positions while moving the cursor
