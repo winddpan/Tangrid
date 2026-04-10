@@ -1,3 +1,10 @@
+## 0.14.8
+- Fixed an issue where fullscreen windows could fail to join tabs correctly in Tab Mode in some cases
+- Added support for closing tabs with a middle click
+- Improved tab background rendering to prevent unexpected darkening in Light Mode with dark wallpapers
+- Added layout rotation and mirroring to Flow Mode
+- Improved automatic window arrangement in Flow Mode for a more comfortable and natural layout
+
 ## 0.14.7
 - Fixed an issue that could cause the app to crash  
 - Added support for running Tangrid independently across multiple system accounts  
