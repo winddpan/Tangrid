@@ -1,3 +1,8 @@
+## 0.14.9
+- Improved overall stability across multiple features and modules
+- Optimized app performance for a smoother experience
+- Added support for German, Japanese, and Traditional Chinese
+
 ## 0.14.8
 - Fixed an issue where fullscreen windows could fail to join tabs correctly in Tab Mode in some cases
 - Added support for closing tabs with a middle click
