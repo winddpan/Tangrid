@@ -1,3 +1,8 @@
+## 0.14.10
+- Fixed an issue where double-clicking the title bar could cause fullscreen mode to exit unexpectedly
+- Fixed a potential issue that could cause the app to become unresponsive
+- Added a Reset Settings button for Window Switcher and Dock previews
+
 ## 0.14.9
 - Improved overall stability across multiple features and modules
 - Optimized app performance for a smoother experience
