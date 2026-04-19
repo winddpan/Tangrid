@@ -1,3 +1,6 @@
+## 0.14.11
+- Improved underlying event handling for better overall stability.
+
 ## 0.14.10
 - Fixed an issue where double-clicking the title bar could cause fullscreen mode to exit unexpectedly
 - Fixed a potential issue that could cause the app to become unresponsive
