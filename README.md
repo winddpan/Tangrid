@@ -1,3 +1,6 @@
+## 0.14.12
+- Fixed an underlying issue to improve the responsiveness and stability of mouse and keyboard input.
+
 ## 0.14.11
 - Improved underlying event handling for better overall stability.
 
