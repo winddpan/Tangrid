@@ -1,3 +1,8 @@
+### 🎉 1.0.0 is officially live
+- Official release is now available, with thanks to all beta testers for their support and feedback
+- Added support for quitting the app after closing the last window
+- Added in-app language selection support
+
 ## 0.14.12
 - Fixed an underlying issue to improve the responsiveness and stability of mouse and keyboard input.
 
