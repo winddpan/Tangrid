@@ -1,4 +1,8 @@
-### 🎉 1.0.0 is officially live
+## 1.0.1
+- Optimized underlying performance to improve overall smoothness and reduce stuttering
+- Added a blacklist mode for quitting the app after closing the last window
+
+## 🎉 1.0.0 is officially live
 - Official release is now available. Thanks to all our beta testers for your support and feedback.
 - Added support for quitting the app after closing the last window
 - Added in-app language selection support
