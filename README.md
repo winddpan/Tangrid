@@ -1,3 +1,11 @@
+## 1.0.2
+- Added a shortcut to fill the window to the screen, defaulting to `Control + Option + F`.
+- Optimized the Tangrid window management engine for better performance and stability.
+- Added support for switching windows by hovering while dragging tabs.
+- Improved Liquid Glass style settings for Dock Preview, Window Switcher, and Flow Tab, with support for Light and Dark modes.
+- Improved window preview hide animations to reduce flickering during fast switching.
+- Fixed issues related to Snap resize, maximize, and fullscreen restore.
+
 ## 1.0.1
 - Optimized underlying performance to improve overall smoothness and reduce stuttering
 - Added a blacklist mode for quitting the app after closing the last window
