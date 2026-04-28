@@ -1,3 +1,7 @@
+## 1.0.3
+- Fixed an issue where fill-screen windows could not be split
+- Fixed an issue where some windows could occasionally not be managed after using fill-screen
+
 ## 1.0.2
 - Added a shortcut to fill the window to the screen, defaulting to `Control + Option + F`.
 - Optimized the Tangrid window management engine for better performance and stability.
