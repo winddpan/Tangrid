@@ -1,3 +1,9 @@
+## 1.1.0
+- Added new Tab interactions: split windows, merge into tabs, and swap windows.
+- Fixed occasional Tab label mismatches across multiple Spaces.
+- Fixed incorrect window state handling when windows are fullscreen or apps are hidden.
+- Fixed an issue where inactive windows could not snap when dragged with modifier keys in snapping mode.
+
 ## 1.0.3
 - Fixed an issue where fill-screen windows could not be split
 - Fixed an issue where some windows could occasionally not be managed after using fill-screen
