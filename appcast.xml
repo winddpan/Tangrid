@@ -13,6 +13,7 @@
       <title>Version 1.1.0</title>
       <sparkle:releaseNotesLink xml:lang="en">https://raw.githubusercontent.com/winddpan/Tangrid/refs/heads/main/README.md</sparkle:releaseNotesLink>
       <sparkle:releaseNotesLink xml:lang="zh-CN">https://raw.githubusercontent.com/winddpan/Tangrid/refs/heads/main/README-CN.md</sparkle:releaseNotesLink>
+      <sparkle:criticalUpdate />
       <pubDate>Sat, 02 May 2026 06:39:32 +0800</pubDate>
       <enclosure
         url="https://github.com/winddpan/Tangrid/releases/download/1.1.0/tangrid-1.1.0.zip"
