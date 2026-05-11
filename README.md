@@ -1,3 +1,8 @@
+## 1.1.1
+- Added highlight border for the active window with customizable styles.
+- Fixed a potential window layout issue after system sleep.
+- Improved hover behavior for the window switcher and Dock previews.
+
 ## 1.1.0
 - Added new Tab interactions: split windows, merge into tabs, and swap windows.
 - Fixed occasional Tab label mismatches across multiple Spaces.
