@@ -1,3 +1,8 @@
+## 1.1.2
+- Fixed window management issues in certain scenarios
+- Improved core engine performance for smoother operation
+- Enhanced stability after waking from system sleep
+
 ## 1.1.1
 - Added highlight border for the active window with customizable styles.
 - Fixed a potential window layout issue after system sleep.
