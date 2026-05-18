@@ -1,3 +1,9 @@
+## 1.2.0
+- Added feature: Single-window Floating.
+- Fixed an issue where window groups could be rebuilt after sleep when “Prefer Tabbed” was enabled.
+- Fixed an issue where some windows could occasionally fail to be managed in Auto Flow mode.
+- Adjusted “Drag anywhere in the window” behavior so the active window no longer switches immediately after pressing a modifier key.
+
 ## 1.1.2
 - Fixed window management issues in certain scenarios
 - Improved core engine performance for smoother operation
