@@ -1,3 +1,7 @@
+## 1.2.1
+- Fixed an issue that could cause the app to crash.
+- Fixed an issue where tabs could display incorrectly in certain cases.
+
 ## 1.2.0
 - Added feature: Single-window Floating.
 - Fixed an issue where window groups could be rebuilt after sleep when “Prefer Tabbed” was enabled.
