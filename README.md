@@ -1,3 +1,6 @@
+## 1.2.2
+- Fixed an issue where windows from some apps could not be managed correctly after a cold launch.
+
 ## 1.2.1
 - Fixed an issue that could cause the app to crash.
 - Fixed an issue where tabs could display incorrectly in certain cases.
