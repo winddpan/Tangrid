@@ -1,3 +1,9 @@
+## 1.2.3
+- Fixed an issue that could cause the app to crash.
+- Fixed compatibility issues with HyperKey.
+- Fixed an occasional error in window minimum size calculation.
+- Fixed an issue where the active window was not correctly highlighted when switching Spaces.
+
 ## 1.2.2
 - Fixed an issue where windows from some apps could not be managed correctly after a cold launch.
 
