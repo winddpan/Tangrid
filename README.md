@@ -1,3 +1,13 @@
+## 1.2.4
+- Added support for splitting windows on the same display.
+- Improved automatic flow layout: when Split is prioritized, new windows now enter Split correctly instead of occasionally switching to Tab mode.
+- Single-window floating mode now remembers each window’s position individually instead of sharing one position per display.
+- Fixed an issue where the highlighted window border might not refresh correctly.
+- Fixed a layout disorder issue after waking from sleep in certain scenarios.
+- Fixed an issue where some subprocess windows could not be managed.
+- Fixed an issue that could cause shortcuts to stop working.
+- Improved layout refresh responsiveness after closing windows.
+
 ## 1.2.3
 - Fixed an issue that could cause the app to crash.
 - Fixed compatibility issues with HyperKey.
