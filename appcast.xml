@@ -13,13 +13,13 @@
       <title>Version 1.2.4</title>
       <sparkle:releaseNotesLink xml:lang="en">https://raw.githubusercontent.com/winddpan/Tangrid/refs/heads/main/README.md</sparkle:releaseNotesLink>
       <sparkle:releaseNotesLink xml:lang="zh-CN">https://raw.githubusercontent.com/winddpan/Tangrid/refs/heads/main/README-CN.md</sparkle:releaseNotesLink>
-      <pubDate>Thu, 28 May 2026 22:55:07 +0800</pubDate>
+      <pubDate>Fri, 29 May 2026 09:58:42 +0800</pubDate>
       <enclosure
         url="https://github.com/winddpan/Tangrid/releases/download/1.2.4/tangrid-1.2.4.zip"
         sparkle:version="1.2.4"
         sparkle:shortVersionString="1.2.4"
-        length="17117584"
-        sparkle:edSignature="Tky+I6moq9CxdMwDgbPCvbJXNgbKZ+iUSD5J6rpSBCIA0kqq7XKxoJsw/IPctQQ8r/wwwqbnvHO83mv+0TzdAw=="
+        length="17117544"
+        sparkle:edSignature="wer/+qureCkcFEWs+5PaJjxjW36b44v90r9w6LbI/ufeH4irxJ9TJIyiQsvCeXFEA3EdX7pZ7ZO+eu/yaqB0CA=="
         type="application/octet-stream" />
     </item>
 
