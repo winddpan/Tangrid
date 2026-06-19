@@ -15,9 +15,9 @@
       <title>Version 1.3.0-beta</title>
       <sparkle:releaseNotesLink xml:lang="en">https://raw.githubusercontent.com/winddpan/Tangrid/refs/heads/main/README-beta.md</sparkle:releaseNotesLink>
       <sparkle:releaseNotesLink xml:lang="zh-CN">https://raw.githubusercontent.com/winddpan/Tangrid/refs/heads/main/README-CN-beta.md</sparkle:releaseNotesLink>
-      <pubDate>Fri, 19 Jun 2026 17:16:23 +0800</pubDate>
+      <pubDate>Fri, 19 Jun 2026 20:32:57 +0800</pubDate>
       <sparkle:channel>beta</sparkle:channel>
-      <enclosure url="https://github.com/winddpan/Tangrid/releases/download/1.3.0-beta/tangrid-1.3.0-beta.zip" sparkle:version="1" sparkle:shortVersionString="1.3.0-beta" length="17677208" sparkle:edSignature="GRQW5ltEFZdkYQ4oIhO4EkRWAbJBYwhiHa3S1JYQblFTWJ4xnn3XZXwpRa28uK0NrN5mUck59i1yz3ez1O36AQ==" type="application/octet-stream" />
+      <enclosure url="https://github.com/winddpan/Tangrid/releases/download/1.3.0-beta/tangrid-1.3.0-beta.zip" sparkle:version="1.3.0" sparkle:shortVersionString="1.3.0-beta" length="17684192" sparkle:edSignature="rQ38JUtw/kskLV1sa/FIIOsbC2v9ps9h8WkE+dxP1nu7d1/DE9O9gEgHhA15MuNsRWS8IHUbwrtn6SR270IuBQ==" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
