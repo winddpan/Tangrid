@@ -1,27 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss
-    version="2.0"
-    xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
-    xmlns:dc="http://purl.org/dc/elements/1.1/">
-
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
     <title>Tangrid Updates</title>
     <link>https://github.com/winddpan/Tangrid</link>
     <description>Tangrid Updates</description>
-
     <item>
       <title>Version 1.2.4</title>
       <sparkle:releaseNotesLink xml:lang="en">https://raw.githubusercontent.com/winddpan/Tangrid/refs/heads/main/README.md</sparkle:releaseNotesLink>
       <sparkle:releaseNotesLink xml:lang="zh-CN">https://raw.githubusercontent.com/winddpan/Tangrid/refs/heads/main/README-CN.md</sparkle:releaseNotesLink>
       <pubDate>Fri, 29 May 2026 09:58:42 +0800</pubDate>
-      <enclosure
-        url="https://github.com/winddpan/Tangrid/releases/download/1.2.4/tangrid-1.2.4.zip"
-        sparkle:version="1.2.4"
-        sparkle:shortVersionString="1.2.4"
-        length="17117544"
-        sparkle:edSignature="wer/+qureCkcFEWs+5PaJjxjW36b44v90r9w6LbI/ufeH4irxJ9TJIyiQsvCeXFEA3EdX7pZ7ZO+eu/yaqB0CA=="
-        type="application/octet-stream" />
+      <enclosure url="https://github.com/winddpan/Tangrid/releases/download/1.2.4/tangrid-1.2.4.zip" sparkle:version="1.2.4" sparkle:shortVersionString="1.2.4" length="17117544" sparkle:edSignature="wer/+qureCkcFEWs+5PaJjxjW36b44v90r9w6LbI/ufeH4irxJ9TJIyiQsvCeXFEA3EdX7pZ7ZO+eu/yaqB0CA==" type="application/octet-stream" />
     </item>
-
+    <item>
+      <title>Version 1.3.0-beta</title>
+      <sparkle:releaseNotesLink xml:lang="en">https://raw.githubusercontent.com/winddpan/Tangrid/refs/heads/main/README-beta.md</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink xml:lang="zh-CN">https://raw.githubusercontent.com/winddpan/Tangrid/refs/heads/main/README-CN-beta.md</sparkle:releaseNotesLink>
+      <pubDate>Fri, 19 Jun 2026 17:16:23 +0800</pubDate>
+      <sparkle:channel>beta</sparkle:channel>
+      <enclosure url="https://github.com/winddpan/Tangrid/releases/download/1.3.0-beta/tangrid-1.3.0-beta.zip" sparkle:version="1" sparkle:shortVersionString="1.3.0-beta" length="17677208" sparkle:edSignature="GRQW5ltEFZdkYQ4oIhO4EkRWAbJBYwhiHa3S1JYQblFTWJ4xnn3XZXwpRa28uK0NrN5mUck59i1yz3ez1O36AQ==" type="application/octet-stream" />
+    </item>
   </channel>
 </rss>
