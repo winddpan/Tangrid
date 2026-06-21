@@ -1,3 +1,7 @@
+## 1.3.1 beta
+- Fixed an issue where window management state could be lost in certain situations.
+- Added a prompt when “Displays have separate Spaces” is not enabled.
+
 ## 1.3.0 beta
 - Rebuilt the layout engine for more stable window management.
 - Fixed layout issues when creating, switching, or closing tabs in tabbed windows.
