@@ -1,3 +1,7 @@
+## 1.3.2 Beta
+- Improved the launch speed of the window switcher.
+- Fixed multiple layout issues, including cases related to Mission Control, `preferSplit` / `preferTabbed`, and Fill Screen.
+
 ## 1.3.1 beta
 - Fixed an issue where window management state could be lost in certain situations.
 - Added a prompt when “Displays have separate Spaces” is not enabled.
