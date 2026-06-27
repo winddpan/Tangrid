@@ -1,4 +1,9 @@
-## 1.3.2 Beta
+## 1.3.3 beta
+- Dock预览新增媒体播放器
+- 修复一个导致休眠恢复无法恢复布局的问题
+- 修复了一个异常触觉反馈的bug
+
+## 1.3.2 beta
 - 优化窗口切换器的唤起速度。
 - 修复多项布局问题，包括 Mission Control、`preferSplit` / `preferTabbed` 及全屏填充相关场景。
 

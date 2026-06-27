@@ -1,4 +1,9 @@
-## 1.3.2 Beta
+## 1.3.3 beta
+- Added a media player to Dock previews.
+- Fixed an issue where layouts might not restore after waking from sleep.
+- Fixed an issue with unexpected haptic feedback.
+
+## 1.3.2 beta
 - Improved the launch speed of the window switcher.
 - Fixed multiple layout issues, including cases related to Mission Control, `preferSplit` / `preferTabbed`, and Fill Screen.
 
