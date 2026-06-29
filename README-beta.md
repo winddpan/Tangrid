@@ -1,3 +1,8 @@
+### 1.3.4 beta
+- Fixed several layout issues
+- Fixed an issue with keyboard shortcuts
+- Fixed an issue where the Save button was not shown in Window Filter settings on older macOS
+
 ## 1.3.3 beta
 - Added a media player to Dock previews.
 - Fixed an issue where layouts might not restore after waking from sleep.
