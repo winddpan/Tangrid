@@ -1,4 +1,8 @@
-### 1.3.4 beta
+## 1.4.0 beta
+- Fixed issues with `preferTabbed`
+- Added Workspace support
+
+## 1.3.4 beta
 - Fixed several layout issues
 - Fixed an issue with keyboard shortcuts
 - Fixed an issue where the Save button was not shown in Window Filter settings on older macOS
