@@ -1,3 +1,8 @@
+## 1.4.1 beta
+- 工作区现支持浏览器 URL、文档路径、Shell 命令和 AppleScript，一键还原工作现场。
+- 提升工作区多窗口恢复速度。
+- 优化休眠唤醒后的窗口位置恢复逻辑。
+
 ## 1.4.0 beta
 - 修复 preferTabbed 相关问题
 - 新增工作区（Workspace）功能

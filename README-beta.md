@@ -1,3 +1,8 @@
+## 1.4.1 beta
+- Workspace now supports browser URLs, document paths, Shell commands, and AppleScript for one-click workspace restoration.
+- Improved multi-window restoration performance.
+- Refined window position restoration after waking from sleep.
+
 ## 1.4.0 beta
 - Fixed issues with `preferTabbed`
 - Added Workspace support
