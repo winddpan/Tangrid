@@ -1,3 +1,7 @@
+## 1.4.2 beta
+- Improved window management stability
+- Refined sleep and wake handling for more reliable recovery
+
 ## 1.4.1 beta
 - Workspace now supports browser URLs, document paths, Shell commands, and AppleScript for one-click workspace restoration.
 - Improved multi-window restoration performance.
