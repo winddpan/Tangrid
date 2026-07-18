@@ -1,3 +1,8 @@
+## 1.4.4 beta
+- Extra Actions now supports hide app.
+- Fixed a window management instability issue after waking from sleep.
+- Fixed an issue where the Space Indicator displayed incorrectly after waking from sleep.
+
 ## 1.4.3 beta
 - Added three- and four-finger gestures to invoke the window switcher
 - Added mouse wheel controls for Dock icons
