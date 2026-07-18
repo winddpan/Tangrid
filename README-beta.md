@@ -1,3 +1,8 @@
+## 1.4.3 beta
+- Added three- and four-finger gestures to invoke the window switcher
+- Added mouse wheel controls for Dock icons
+- Fixed known issues and improved stability
+
 ## 1.4.2 beta
 - Improved window management stability
 - Refined sleep and wake handling for more reliable recovery
