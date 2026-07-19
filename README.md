@@ -1,3 +1,29 @@
+## 1.5.0
+
+**New Features**
+
+- Added Workspace for restoring your working environment with one click. Workspaces support browser URLs, document paths, Shell commands, and AppleScript, with faster multi-window restoration.
+- Added three- and four-finger gestures for opening the Window Switcher.
+- Added mouse wheel actions for Dock icons, plus a Hide App action in Extra Actions.
+- Added a media player to Dock previews.
+- Added support for rearranging window layouts by dragging tab labels.
+- Added independent gap and screen-edge settings for each display.
+- Redesigned window transition animations in Auto Flow mode.
+- Added a reminder when “Displays have separate Spaces” is disabled.
+
+**Major Fixes and Improvements**
+
+- Rebuilt the layout engine to make window management more stable and reliable.
+- Improved recovery after sleep and wake, including window management state, layout, window positions, and the Space Indicator.
+- Fixed layout issues involving Mission Control, Fill Screen, and `preferSplit` / `preferTabbed`.
+- Fixed layout disruption when creating, switching, or closing tabs in tabbed windows.
+- Fixed cases where window management state or layouts could be lost.
+- Fixed tab bar flickering and duplicate tab bars.
+- Fixed keyboard shortcut issues and restored the missing Save button in Window Filter settings on older macOS versions.
+- Improved Window Switcher launch speed and multi-window Workspace restoration performance.
+- Refined Dock preview and triangle-menu hover detection to reduce accidental activation.
+- Fixed unexpected haptic feedback and improved overall stability.
+
 ## 1.2.4
 - Added support for splitting windows on the same display.
 - Improved automatic flow layout: when Split is prioritized, new windows now enter Split correctly instead of occasionally switching to Tab mode.
