@@ -1,3 +1,8 @@
+## 1.5.1
+- Improved window switching: selecting a window from Dock previews or the Window Switcher now immediately switches to its Space.
+- Fixed issues with floating windows and Single Window Float mode during workspace restoration.
+- Fixed incorrect remembered window positions in Single Window Float mode.
+
 ## 1.5.0
 
 **New Features**
