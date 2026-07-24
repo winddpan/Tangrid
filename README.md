@@ -1,3 +1,9 @@
+## 1.5.2
+- Workspace now remembers single-window floating and Fill Screen states.
+- Fixed an issue where the tab bar could occasionally move to another Space.
+- Reworked drag and resize from anywhere for smoother interactions.
+- Renamed “Equalize Windows” to “Balance Windows,” with dynamic balancing for windows arranged in the same direction.
+
 ## 1.5.1
 - Improved window switching: selecting a window from Dock previews or the Window Switcher now immediately switches to its Space.
 - Fixed issues with floating windows and Single Window Float mode during workspace restoration.
