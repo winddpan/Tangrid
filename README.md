@@ -1,3 +1,8 @@
+## 1.5.3
+- Improved reliability of in-app tab switching detection.
+- Fixed several state issues caused by connecting or disconnecting external displays.
+- The preview window now uses a hand cursor.
+
 ## 1.5.2
 - Workspace now remembers single-window floating and Fill Screen states.
 - Fixed an issue where the tab bar could occasionally move to another Space.
