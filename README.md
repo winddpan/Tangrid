@@ -1,3 +1,7 @@
+## 1.5.4
+- Improved handling when dragging tabs out into a window, preventing split actions from triggering immediately
+- Fixed several known issues and improved stability
+
 ## 1.5.3
 - Improved reliability of in-app tab switching detection.
 - Fixed several state issues caused by connecting or disconnecting external displays.
