@@ -1,3 +1,9 @@
+## 1.5.5
+- Added left and right tiling in Snap Mode: drag a window to the left or right edge of the screen to snap it.
+- Fixed several issues in Snap Mode.
+- Fixed an issue where Electron apps could disappear from tab groups.
+- Fixed an IME quick search issue in the vertical Window Switcher.
+
 ## 1.5.4
 - Improved handling when dragging tabs out into a window, preventing split actions from triggering immediately
 - Fixed several known issues and improved stability
