@@ -5,11 +5,11 @@
     <link>https://github.com/winddpan/Tangrid</link>
     <description>Tangrid Updates</description>
     <item>
-      <title>Version 1.5.5</title>
+      <title>Version 1.5.6</title>
       <sparkle:releaseNotesLink xml:lang="en">https://raw.githubusercontent.com/winddpan/Tangrid/refs/heads/main/README.md</sparkle:releaseNotesLink>
       <sparkle:releaseNotesLink xml:lang="zh-CN">https://raw.githubusercontent.com/winddpan/Tangrid/refs/heads/main/README-CN.md</sparkle:releaseNotesLink>
-      <pubDate>Thu, 06 Aug 2026 00:24:34 +0800</pubDate>
-      <enclosure url="https://github.com/winddpan/Tangrid/releases/download/1.5.5/tangrid-1.5.5.zip" sparkle:version="1.5.5" sparkle:shortVersionString="1.5.5" length="19714346" sparkle:edSignature="HdAnDU+srG9JfIN8gJo7yC2iO7Cl83tPOc+vcfzXc2T00BfHywl7zUAw6R4QuQnCqtiqRAL/psA6RPn0UsIwCQ==" type="application/octet-stream" />
+      <pubDate>Mon, 10 Aug 2026 21:27:16 +0800</pubDate>
+      <enclosure url="https://github.com/winddpan/Tangrid/releases/download/1.5.6/tangrid-1.5.6.zip" sparkle:version="1.5.6" sparkle:shortVersionString="1.5.6" length="19847308" sparkle:edSignature="0X36rwPWqkl4U+ufeHPpe4NZD+846CedKwww1ykYgH8Upeihj4fBqUOGesJyW09p3SIO9S1jH/1Dge93glldAQ==" type="application/octet-stream" />
     </item>
     <item>
       <title>Version 1.5.0</title>

@@ -1,3 +1,8 @@
+## 1.5.6
+- Fixed an issue preventing instant Space switching on macOS 27
+- Fixed a crash
+- FillScreen now respects the Gap setting
+
 ## 1.5.5
 - Added left and right tiling in Snap Mode: drag a window to the left or right edge of the screen to snap it.
 - Fixed several issues in Snap Mode.
