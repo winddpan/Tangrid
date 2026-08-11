@@ -1,3 +1,7 @@
+## 1.5.7
+- Fixed an issue where filled-screen window could unexpectedly exit filled-screen mode in certain cases.
+
+
 ## 1.5.6
 - Fixed an issue preventing instant Space switching on macOS 27
 - Fixed a crash
