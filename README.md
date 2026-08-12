@@ -1,3 +1,6 @@
+## 1.5.8
+- Fixed several issues related to fill-screen.
+
 ## 1.5.7
 - Fixed an issue where filled-screen window could unexpectedly exit filled-screen mode in certain cases.
 
