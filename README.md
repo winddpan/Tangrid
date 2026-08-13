@@ -1,4 +1,8 @@
-macOS WM - Tangrid Release
+# Tangrid
+> Window manager with snapping, tiling, and Winodw Switcher, Dock previews, Workspace
 
-Website [https://tangrid.app/](https://tangrid.app/)
-Discord [https://api.tangrid.app/invite/discord](https://api.tangrid.app/invite/discord)
+### Website
+[https://tangrid.app/](https://tangrid.app/)
+
+### Discord
+[https://api.tangrid.app/invite/discord](https://api.tangrid.app/invite/discord)
