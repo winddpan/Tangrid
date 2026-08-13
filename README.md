@@ -6,3 +6,9 @@
 
 ### Discord
 [https://api.tangrid.app/invite/discord](https://api.tangrid.app/invite/discord)
+
+# Homebrew
+```
+brew tap winddpan/Tangrid https://github.com/winddpan/Tangrid
+brew install --cask winddpan/tangrid/tangrid-app
+```
