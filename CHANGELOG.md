@@ -1,3 +1,8 @@
+## 1.5.9
+- Added per-window launch command configuration for apps in workspaces.
+- Fixed multiple workspace-related issues.
+- Fixed an issue where windows were not tiled correctly after exiting full screen.
+
 ## 1.5.8
 - Fixed several issues related to fill-screen.
 
