@@ -1,3 +1,10 @@
+## 1.5.10
+- Fixed a black screen issue when switching Spaces on macOS 27
+- Improved window transition animations in the window switcher and Dock previews
+- Improved window responsiveness when resizing
+- Fixed an issue that could accidentally trigger FillScreen
+- Fixed window management for windows with an empty Bundle Identifier
+
 ## 1.5.9
 - Added per-window launch command configuration for apps in workspaces.
 - Fixed multiple workspace-related issues.
