@@ -1,8 +1,8 @@
 cask "tangrid-app" do
-  version "1.5.9"
-  sha256 "3afbc863f8e5a04d875f9b51e85644bd7eee4332cb5a415921eded00c9d34dd7"
+  version "1.5.10"
+  sha256 "b66e230fb27074930f3ccb7667ac1529a8e0d706b893f918e8705c960ac0b5c1"
 
-  url "https://github.com/winddpan/Tangrid/releases/download/1.5.9/tangrid-1.5.9.zip"
+  url "https://github.com/winddpan/Tangrid/releases/download/1.5.10/tangrid-1.5.10.zip"
   name "Tangrid"
   desc "Window manager with snapping, tiling, Window Switcher, Dock previews, Workspace"
   homepage "https://github.com/winddpan/Tangrid"
