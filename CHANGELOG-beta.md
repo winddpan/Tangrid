@@ -1,3 +1,9 @@
+## 1.6.1 Beta
+- Added: Bring all floating windows to the front
+- Fixed: Incorrect window indexing with multiple tabs
+- Fixed: Space switching issues on macOS 27
+- Added: Arc Dia workspace template
+
 ## 1.6.0 Beta
 - Tab group can now be dragged manually and exchanged between different screens.
 - Snap mode now supports multiple fill-screen windows at the same time.
