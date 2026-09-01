@@ -1,3 +1,14 @@
+## 1.6.2
+- Added a one-click option to bring all floating windows to the front.
+- Added a Liquid Glass background effect option for workspaces.
+- Snap mode now supports multiple full-screen windows simultaneously.
+- Added support for manually dragging tab groups and swapping them across displays.
+- Added workspace template: Arc, Dia.
+- Improved overall performance and stability.
+- Fixed incorrect window indexing in multi-tab windows.
+- Fixed an issue when switching Spaces on macOS 27.
+- Resolved other known issues.
+
 ## 1.5.10
 - Fixed a black screen issue when switching Spaces on macOS 27
 - Improved window transition animations in the window switcher and Dock previews
