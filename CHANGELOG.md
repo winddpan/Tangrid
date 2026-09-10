@@ -1,3 +1,10 @@
+#### 1.6.4
+- Adopted the standard macOS traffic-light button style for window previews
+- Improved the interaction experience for native window previews
+- Fixed an issue where clicking the Dock icon could not hide windows on other screens
+- Fixed an incorrect hover area when Dock icon magnification was set too high
+- Fixed an issue preventing the window switcher from being clicked with certain modifier key settings
+
 ### 1.6.3
 - Added more style and color customization options for Liquid Glass
 - Added support for repositioning the Space Indicator
