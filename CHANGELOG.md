@@ -1,4 +1,8 @@
-#### 1.6.4
+### 1.6.5
+- Fixed an instant switching spaces issue on macOS 27 RC.
+- Improved the Dock preview experience.
+
+### 1.6.4
 - Adopted the standard macOS traffic-light button style for window previews
 - Improved the interaction experience for native window previews
 - Fixed an issue where clicking the Dock icon could not hide windows on other screens
