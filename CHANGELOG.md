@@ -1,3 +1,10 @@
+### 1.6.6
+- Added a Dock icon click behavior option to hide or unhide the application.
+- Added an option to skip floating windows during directional focus.
+- Fixed some compatibility issues on macOS 27.
+- Fixed an issue where macOS New Siri windows could not be managed.
+- Fixed an issue where inactive windows might not be draggable when dragging from anywhere in the window.
+
 ### 1.6.5
 - Fixed an instant switching spaces issue on macOS 27 RC.
 - Improved the Dock preview experience.
