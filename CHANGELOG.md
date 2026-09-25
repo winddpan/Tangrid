@@ -1,3 +1,9 @@
+### 1.6.7
+- Improved gesture and mouse interactions in Window Switcher and Dock Preview.
+- Fixed issues when opening Window Switcher with three- or four-finger gestures.
+- Fixed an issue where the Tab focus state sometimes failed to refresh correctly after exiting Mission Control.
+- Fixed an issue that prevented window states from refreshing correctly.
+
 ### 1.6.6
 - Added a Dock icon click behavior option to hide or unhide the application.
 - Added an option to skip floating windows during directional focus.
