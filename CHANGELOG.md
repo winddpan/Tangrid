@@ -1,3 +1,7 @@
+### 1.6.8
+- Improved the overall experience and performance of Window Switcher and Dock Preview.
+- Fixed some known issues.
+
 ### 1.6.7
 - Improved gesture and mouse interactions in Window Switcher and Dock Preview.
 - Fixed issues when opening Window Switcher with three- or four-finger gestures.
