@@ -13,13 +13,13 @@
       <enclosure url="https://github.com/winddpan/Tangrid/releases/download/1.6.8/tangrid-1.6.8.zip" sparkle:version="1.6.8" sparkle:shortVersionString="1.6.8" length="21272869" sparkle:edSignature="cXiYW06+Sv0CW4OFAMr+BhSYmkDVXK8EZfr9QyreBdKUq6dFnpCOPLys0y/OxFapirtmmlubxeMMEKnpx70HDg==" type="application/octet-stream" />
     </item>
     <item>
-      <title>Version 1.6.1-beta</title>
-      <sparkle:criticalUpdate sparkle:version="1.6.1" />
-      <sparkle:releaseNotesLink xml:lang="en">https://raw.githubusercontent.com/winddpan/Tangrid/refs/heads/main/CHANGELOG-beta.md</sparkle:releaseNotesLink>
-      <sparkle:releaseNotesLink xml:lang="zh-CN">https://raw.githubusercontent.com/winddpan/Tangrid/refs/heads/main/CHANGELOG-CN-beta.md</sparkle:releaseNotesLink>
-      <pubDate>Sun, 30 Aug 2026 20:57:07 +0800</pubDate>
+      <title>Version 1.6.8</title>
+      <sparkle:criticalUpdate sparkle:version="1.6.8" />
+      <sparkle:releaseNotesLink xml:lang="en">https://raw.githubusercontent.com/winddpan/Tangrid/refs/heads/main/CHANGELOG.md</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink xml:lang="zh-CN">https://raw.githubusercontent.com/winddpan/Tangrid/refs/heads/main/CHANGELOG-CN.md</sparkle:releaseNotesLink>
+      <pubDate>Wed, 30 Sep 2026 23:58:18 +0800</pubDate>
       <sparkle:channel>beta</sparkle:channel>
-      <enclosure url="https://github.com/winddpan/Tangrid/releases/download/1.6.1-beta/tangrid-1.6.1-beta.zip" sparkle:version="1.6.1" sparkle:shortVersionString="1.6.1-beta" length="20644537" sparkle:edSignature="zg+Jxgaf/5LdzKZUQm9uughyeBelVKGIJeMmFrNEPuHG4QJpLTKahPI/qLrdcHaprRl5h9ZPBcQLys9z/qWcAA==" type="application/octet-stream" />
+      <enclosure url="https://github.com/winddpan/Tangrid/releases/download/1.6.8/tangrid-1.6.8.zip" sparkle:version="1.6.8" sparkle:shortVersionString="1.6.8" length="21272869" sparkle:edSignature="cXiYW06+Sv0CW4OFAMr+BhSYmkDVXK8EZfr9QyreBdKUq6dFnpCOPLys0y/OxFapirtmmlubxeMMEKnpx70HDg==" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
