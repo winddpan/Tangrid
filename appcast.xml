@@ -6,6 +6,7 @@
     <description>Tangrid Updates</description>
     <item>
       <title>Version 1.6.8</title>
+      <sparkle:criticalUpdate sparkle:version="1.6.8" />
       <sparkle:releaseNotesLink xml:lang="en">https://raw.githubusercontent.com/winddpan/Tangrid/refs/heads/main/CHANGELOG.md</sparkle:releaseNotesLink>
       <sparkle:releaseNotesLink xml:lang="zh-CN">https://raw.githubusercontent.com/winddpan/Tangrid/refs/heads/main/CHANGELOG-CN.md</sparkle:releaseNotesLink>
       <pubDate>Wed, 30 Sep 2026 23:58:18 +0800</pubDate>
@@ -13,6 +14,7 @@
     </item>
     <item>
       <title>Version 1.6.1-beta</title>
+      <sparkle:criticalUpdate sparkle:version="1.6.1" />
       <sparkle:releaseNotesLink xml:lang="en">https://raw.githubusercontent.com/winddpan/Tangrid/refs/heads/main/CHANGELOG-beta.md</sparkle:releaseNotesLink>
       <sparkle:releaseNotesLink xml:lang="zh-CN">https://raw.githubusercontent.com/winddpan/Tangrid/refs/heads/main/CHANGELOG-CN-beta.md</sparkle:releaseNotesLink>
       <pubDate>Sun, 30 Aug 2026 20:57:07 +0800</pubDate>
