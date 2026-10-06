@@ -1,38 +1,38 @@
-### 1.6.8
+### 1.6.8 <small><span style="opacity: 0.55;">October 1, 2026</span></small>
 - Improved the overall experience and performance of Window Switcher and Dock Preview.
 - Fixed some known issues.
 
-### 1.6.7
+### 1.6.7 <small><span style="opacity: 0.55;">September 26, 2026</span></small>
 - Improved gesture and mouse interactions in Window Switcher and Dock Preview.
 - Fixed issues when opening Window Switcher with three- or four-finger gestures.
 - Fixed an issue where the Tab focus state sometimes failed to refresh correctly after exiting Mission Control.
 - Fixed an issue that prevented window states from refreshing correctly.
 
-### 1.6.6
+### 1.6.6 <small><span style="opacity: 0.55;">September 24, 2026</span></small>
 - Added a Dock icon click behavior option to hide or unhide the application.
 - Added an option to skip floating windows during directional focus.
 - Fixed some compatibility issues on macOS 27.
 - Fixed an issue where macOS New Siri windows could not be managed.
 - Fixed an issue where inactive windows might not be draggable when dragging from anywhere in the window.
 
-### 1.6.5
+### 1.6.5 <small><span style="opacity: 0.55;">September 12, 2026</span></small>
 - Fixed an instant switching spaces issue on macOS 27 RC.
 - Improved the Dock preview experience.
 
-### 1.6.4
+### 1.6.4 <small><span style="opacity: 0.55;">September 10, 2026</span></small>
 - Adopted the standard macOS traffic-light button style for window previews
 - Improved the interaction experience for native window previews
 - Fixed an issue where clicking the Dock icon could not hide windows on other screens
 - Fixed an incorrect hover area when Dock icon magnification was set too high
 - Fixed an issue preventing the window switcher from being clicked with certain modifier key settings
 
-### 1.6.3
+### 1.6.3 <small><span style="opacity: 0.55;">September 7, 2026</span></small>
 - Added more style and color customization options for Liquid Glass
 - Added support for repositioning the Space Indicator
 - Fixed an issue where the process failed to exit after closing the last window
 - Fixed other known issues
 
-## 1.6.2
+## 1.6.2 <small><span style="opacity: 0.55;">September 1, 2026</span></small>
 - Added a one-click option to bring all floating windows to the front.
 - Added a Liquid Glass background effect option for workspaces.
 - Snap mode now supports multiple full-screen windows simultaneously.
@@ -43,57 +43,57 @@
 - Fixed an issue when switching Spaces on macOS 27.
 - Resolved other known issues.
 
-## 1.5.10
+## 1.5.10 <small><span style="opacity: 0.55;">August 23, 2026</span></small>
 - Fixed a black screen issue when switching Spaces on macOS 27
 - Improved window transition animations in the window switcher and Dock previews
 - Improved window responsiveness when resizing
 - Fixed an issue that could accidentally trigger FillScreen
 - Fixed window management for windows with an empty Bundle Identifier
 
-## 1.5.9
+## 1.5.9 <small><span style="opacity: 0.55;">August 21, 2026</span></small>
 - Added per-window launch command configuration for apps in workspaces.
 - Fixed multiple workspace-related issues.
 - Fixed an issue where windows were not tiled correctly after exiting full screen.
 
-## 1.5.8
+## 1.5.8 <small><span style="opacity: 0.55;">August 13, 2026</span></small>
 - Fixed several issues related to fill-screen.
 
-## 1.5.7
+## 1.5.7 <small><span style="opacity: 0.55;">August 12, 2026</span></small>
 - Fixed an issue where filled-screen window could unexpectedly exit filled-screen mode in certain cases.
 
 
-## 1.5.6
+## 1.5.6 <small><span style="opacity: 0.55;">August 10, 2026</span></small>
 - Fixed an issue preventing instant Space switching on macOS 27
 - Fixed a crash
 - FillScreen now respects the Gap setting
 
-## 1.5.5
+## 1.5.5 <small><span style="opacity: 0.55;">August 6, 2026</span></small>
 - Added left and right tiling in Snap Mode: drag a window to the left or right edge of the screen to snap it.
 - Fixed several issues in Snap Mode.
 - Fixed an issue where Electron apps could disappear from tab groups.
 - Fixed an IME quick search issue in the vertical Window Switcher.
 
-## 1.5.4
+## 1.5.4 <small><span style="opacity: 0.55;">August 3, 2026</span></small>
 - Improved handling when dragging tabs out into a window, preventing split actions from triggering immediately
 - Fixed several known issues and improved stability
 
-## 1.5.3
+## 1.5.3 <small><span style="opacity: 0.55;">July 29, 2026</span></small>
 - Improved reliability of in-app tab switching detection.
 - Fixed several state issues caused by connecting or disconnecting external displays.
 - The preview window now uses a hand cursor.
 
-## 1.5.2
+## 1.5.2 <small><span style="opacity: 0.55;">July 25, 2026</span></small>
 - Workspace now remembers single-window floating and Fill Screen states.
 - Fixed an issue where the tab bar could occasionally move to another Space.
 - Reworked drag and resize from anywhere for smoother interactions.
 - Renamed “Equalize Windows” to “Balance Windows,” with dynamic balancing for windows arranged in the same direction.
 
-## 1.5.1
+## 1.5.1 <small><span style="opacity: 0.55;">July 20, 2026</span></small>
 - Improved window switching: selecting a window from Dock previews or the Window Switcher now immediately switches to its Space.
 - Fixed issues with floating windows and Single Window Float mode during workspace restoration.
 - Fixed incorrect remembered window positions in Single Window Float mode.
 
-## 1.5.0
+## 1.5.0 <small><span style="opacity: 0.55;">July 20, 2026</span></small>
 
 **New Features**
 
@@ -119,7 +119,7 @@
 - Refined Dock preview and triangle-menu hover detection to reduce accidental activation.
 - Fixed unexpected haptic feedback and improved overall stability.
 
-## 1.2.4
+## 1.2.4 <small><span style="opacity: 0.55;">May 29, 2026</span></small>
 - Added support for splitting windows on the same display.
 - Improved automatic flow layout: when Split is prioritized, new windows now enter Split correctly instead of occasionally switching to Tab mode.
 - Single-window floating mode now remembers each window’s position individually instead of sharing one position per display.
@@ -129,46 +129,46 @@
 - Fixed an issue that could cause shortcuts to stop working.
 - Improved layout refresh responsiveness after closing windows.
 
-## 1.2.3
+## 1.2.3 <small><span style="opacity: 0.55;">May 22, 2026</span></small>
 - Fixed an issue that could cause the app to crash.
 - Fixed compatibility issues with HyperKey.
 - Fixed an occasional error in window minimum size calculation.
 - Fixed an issue where the active window was not correctly highlighted when switching Spaces.
 
-## 1.2.2
+## 1.2.2 <small><span style="opacity: 0.55;">May 20, 2026</span></small>
 - Fixed an issue where windows from some apps could not be managed correctly after a cold launch.
 
-## 1.2.1
+## 1.2.1 <small><span style="opacity: 0.55;">May 19, 2026</span></small>
 - Fixed an issue that could cause the app to crash.
 - Fixed an issue where tabs could display incorrectly in certain cases.
 
-## 1.2.0
+## 1.2.0 <small><span style="opacity: 0.55;">May 18, 2026</span></small>
 - Added feature: Single-window Floating.
 - Fixed an issue where window groups could be rebuilt after sleep when “Prefer Tabbed” was enabled.
 - Fixed an issue where some windows could occasionally fail to be managed in Auto Flow mode.
 - Adjusted “Drag anywhere in the window” behavior so the active window no longer switches immediately after pressing a modifier key.
 
-## 1.1.2
+## 1.1.2 <small><span style="opacity: 0.55;">May 14, 2026</span></small>
 - Fixed window management issues in certain scenarios
 - Improved core engine performance for smoother operation
 - Enhanced stability after waking from system sleep
 
-## 1.1.1
+## 1.1.1 <small><span style="opacity: 0.55;">May 12, 2026</span></small>
 - Added highlight border for the active window with customizable styles.
 - Fixed a potential window layout issue after system sleep.
 - Improved hover behavior for the window switcher and Dock previews.
 
-## 1.1.0
+## 1.1.0 <small><span style="opacity: 0.55;">May 2, 2026</span></small>
 - Added new Tab interactions: split windows, merge into tabs, and swap windows.
 - Fixed occasional Tab label mismatches across multiple Spaces.
 - Fixed incorrect window state handling when windows are fullscreen or apps are hidden.
 - Fixed an issue where inactive windows could not snap when dragged with modifier keys in snapping mode.
 
-## 1.0.3
+## 1.0.3 <small><span style="opacity: 0.55;">April 29, 2026</span></small>
 - Fixed an issue where fill-screen windows could not be split
 - Fixed an issue where some windows could occasionally not be managed after using fill-screen
 
-## 1.0.2
+## 1.0.2 <small><span style="opacity: 0.55;">April 28, 2026</span></small>
 - Added a shortcut to fill the window to the screen, defaulting to `Control + Option + F`.
 - Optimized the Tangrid window management engine for better performance and stability.
 - Added support for switching windows by hovering while dragging tabs.
@@ -176,62 +176,62 @@
 - Improved window preview hide animations to reduce flickering during fast switching.
 - Fixed issues related to Snap resize, maximize, and fullscreen restore.
 
-## 1.0.1
+## 1.0.1 <small><span style="opacity: 0.55;">April 23, 2026</span></small>
 - Optimized underlying performance to improve overall smoothness and reduce stuttering
 - Added a blacklist mode for quitting the app after closing the last window
 
-## 🎉 1.0.0 is officially live
+## 🎉 1.0.0 is officially live <small><span style="opacity: 0.55;">April 21, 2026</span></small>
 - Official release is now available. Thanks to all our beta testers for your support and feedback.
 - Added support for quitting the app after closing the last window
 - Added in-app language selection support
 
-## 0.14.12
+## 0.14.12 <small><span style="opacity: 0.55;">April 21, 2026</span></small>
 - Fixed an underlying issue to improve the responsiveness and stability of mouse and keyboard input.
 
-## 0.14.11
+## 0.14.11 <small><span style="opacity: 0.55;">April 19, 2026</span></small>
 - Improved underlying event handling for better overall stability.
 
-## 0.14.10
+## 0.14.10 <small><span style="opacity: 0.55;">April 15, 2026</span></small>
 - Fixed an issue where double-clicking the title bar could cause fullscreen mode to exit unexpectedly
 - Fixed a potential issue that could cause the app to become unresponsive
 - Added a Reset Settings button for Window Switcher and Dock previews
 
-## 0.14.9
+## 0.14.9 <small><span style="opacity: 0.55;">April 13, 2026</span></small>
 - Improved overall stability across multiple features and modules
 - Optimized app performance for a smoother experience
 - Added support for German, Japanese, and Traditional Chinese
 
-## 0.14.8
+## 0.14.8 <small><span style="opacity: 0.55;">April 10, 2026</span></small>
 - Fixed an issue where fullscreen windows could fail to join tabs correctly in Tab Mode in some cases
 - Added support for closing tabs with a middle click
 - Improved tab background rendering to prevent unexpected darkening in Light Mode with dark wallpapers
 - Added layout rotation and mirroring to Flow Mode
 - Improved automatic window arrangement in Flow Mode for a more comfortable and natural layout
 
-## 0.14.7
+## 0.14.7 <small><span style="opacity: 0.55;">April 8, 2026</span></small>
 - Fixed an issue that could cause the app to crash  
 - Added support for running Tangrid independently across multiple system accounts  
 - Refined the UX and visual details of the flashing border  
 - Improved the Dock preview UI when the preview window is narrow  
 - Optimized window behavior after waking from sleep to reduce unexpected jumping
 
-## 0.14.6
+## 0.14.6 <small><span style="opacity: 0.55;">April 4, 2026</span></small>
 - Fixed an issue where window transition animations could be triggered unexpectedly
 - Improved Dock preview interactions to prevent accidental activation of live window positions while moving the cursor
 - Improved the reliability of focused window actions
 
-## 0.14.5
+## 0.14.5 <small><span style="opacity: 0.55;">March 31, 2026</span></small>
 - Fixed a visual issue with tabs when switching system appearance
 - Resolved an issue where tab previews might occasionally remain visible
 - Improved the stability of window switching
 
-## 0.14.4
+## 0.14.4 <small><span style="opacity: 0.55;">March 30, 2026</span></small>
 - Tabbed Layout: Windows of similar sizes now automatically group into tabs.
 - Performance: Improves Cmd + Tab responsiveness and optimizes overall CPU and memory usage.
 - UI Improvements: Adds a yellow overlay to minimized window previews for clearer status indication.
 - Bug Fixes: Resolves an issue that may cause the app to quit unexpectedly.
 
-## 0.14.3
+## 0.14.3 <small><span style="opacity: 0.55;">March 28, 2026</span></small>
 - Added a new Auto Flow Layout option, with support for Prefer Split, Prefer Tabbed, Auto-tab Small Splits.
 - Improving the tab UX.
 - Improved rounded window borders to perfect match different window corner radii.
@@ -239,66 +239,66 @@
 - Improved the stability of tabbed and split layouts.
 - Fixed a bug where window previews could occasionally fail to dismiss correctly.
 
-## 0.14.2
+## 0.14.2 <small><span style="opacity: 0.55;">March 26, 2026</span></small>
 - Refined the tabbed interface to improve interaction consistency and predictability.
 - Added window preview support to the Window Switcher, Dock previews, and tabs. Disabled by default.
 
-## 0.14.1
+## 0.14.1 <small><span style="opacity: 0.55;">March 25, 2026</span></small>
 - Refreshed app icon
 - Improved Tab Mode stability to reduce unexpected exits after sleep and similar scenarios
 
-## 0.14.0
+## 0.14.0 <small><span style="opacity: 0.55;">March 24, 2026</span></small>
 - New：Added tabbed mode to Auto Tiling
 	- Introduced two shortcut key sets for tabbed mode
 	- Window movement and focus switching shortcuts now support tabbed mode
 	- Refined drag interactions in Auto Tiling for a more intuitive tabbed mode experience
 - Fixed: Resolved an issue where some shortcuts remained active after disabling the window manager
 
-## 0.13.9
+## 0.13.9 <small><span style="opacity: 0.55;">March 20, 2026</span></small>
 - Fixed an issue where the window switcher did not default to the second item during app startup
 - Reduced window border thickness on macOS versions below 26
 - Fixed an issue where Adobe Premiere was not managed correctly
 
-## 0.13.8
+## 0.13.8 <small><span style="opacity: 0.55;">March 19, 2026</span></small>
 - Fixed an issue where switching windows could incorrectly activate a non-target window
 - Improved animation consistency when restoring from minimization or creating a new window, now matching window movement animations
 - Fixed an issue in Snap mode where auto-arrange did not correctly handle windows in the floating window list
 
-## 0.13.7
+## 0.13.7 <small><span style="opacity: 0.55;">March 17, 2026</span></small>
 - Fixed an issue where the window switcher could select the wrong default window after using `Cmd + Q`
 - Improved the stability of window management state, especially after closing tabs in multi-tab windows (eg: Ghostty)
 
-## 0.13.6
+## 0.13.6 <small><span style="opacity: 0.55;">March 16, 2026</span></small>
 - Improved window resizing: +/- shortcuts now work in all modes, with added support for resizing windows using modifier keys + mouse wheel
 - Fixed an issue where windows could fail to be managed properly after wake in some cases
 - Fixed a window offset issue in Snap mode when pressing ⌘⇧R repeatedly
 - Fixed an issue in Snap mode where some multi-tab windows would fail to snap
 
-## 0.13.5
+## 0.13.5 <small><span style="opacity: 0.55;">March 13, 2026</span></small>
 - Fixed an issue where the Auto Arrange Windows feature was not displayed
 
-## 0.13.4
+## 0.13.4 <small><span style="opacity: 0.55;">March 13, 2026</span></small>
 - Fixed an issue where “Move Window to Space/Display” shortcut changes did not take effect immediately
 - Fixed incorrect window counts in the window switcher and Dock previews after repeatedly closing and reopening windows
 - Fixed issues where some features could start or stop incorrectly when window management was disabled
 - Added automatic window arrangement to Snap mode, default shortcut `Cmd + Shift + R`
 - Updated the `Cmd + `` window switching order to match macOS system behavior
 
-## 0.13.3
+## 0.13.3 <small><span style="opacity: 0.55;">March 11, 2026</span></small>
 - Added support for `Cmd + Q`, `Cmd + W`, and `Cmd + M` shortcuts in the Window Switcher and Dock Preview.
 - Fixed an issue where some windows did not reappear in the Window Switcher and Dock Preview after being closed and reopened.
 
-## 0.13.2
+## 0.13.2 <small><span style="opacity: 0.55;">March 9, 2026</span></small>
 - Fixed an issue where disabling the window management module could unexpectedly affect window behavior
 - Improved support for combined modifier keys in the window switcher and drag modifier settings
 
-## 0.13.1
+## 0.13.1 <small><span style="opacity: 0.55;">March 7, 2026</span></small>
 - Added a Dock click behavior option to minimize apps with a single window (Windows-like behavior).
 - Improved Window Switcher to correctly display windows from multi-process app groups (e.g., Steam, Minecraft).
 - Fixed an issue where window actions could incorrectly snap back to the original desktop in specific scenarios.
 - Enhanced focus-switching stability to reduce occasional switching failures.
 
-## 0.13.0
+## 0.13.0 <small><span style="opacity: 0.55;">March 5, 2026</span></small>
 **New**
 - Added macOS traffic-light controls (close/minimize/fullscreen) to window preview cards, with configurable left/right placement for both Window Switcher and Dock Preview.
 - Enhanced Window Switcher interactions: use `Cmd + number` for quick row selection, and `/` to toggle search focus in vertical mode.
@@ -320,12 +320,12 @@
 **Behavior Changes**
 - Window rules are now Flow-centric: rules are editable/effective in Auto Flow mode, and Snap-rule logic has been removed.
 
-## 0.12.1
+## 0.12.1 <small><span style="opacity: 0.55;">February 27, 2026</span></small>
 * Fixed an issue where drag modifier keys interfered with modifier + left-click.
 * Fixed an issue where Fn did not work as a drag modifier key.
 * Fixed an issue in Assist Snap mode where mouse modifier + right-drag could not resize windows.
 
-## 0.12.0
+## 0.12.0 <small><span style="opacity: 0.55;">February 26, 2026</span></small>
 * Added a new Mouse Modifier Key for moving and resizing windows from anywhere.
 * Holding the drag modifier key now lets you drag a window from any position.
 * Added shortcut conflict alerts to help identify and resolve keybinding issues.
@@ -333,46 +333,46 @@
 * The dropdown menu now lists all shortcuts.
 * Improved reliability when moving windows to desktops or displays via shortcuts.
 
-## 0.11.1
+## 0.11.1 <small><span style="opacity: 0.55;">February 24, 2026</span></small>
 * Improved: Fixed an issue where mouse highlight in window preview could behave incorrectly after closing a window.
 * Fixed: Resolved an issue where Move to Space shortcuts did not work for some app windows.
 * Added: New window switcher scope option to show only windows on the current active desktop.
 * Added: Added keyboard shortcuts for quick window resizing.
 
-## 0.11.0
+## 0.11.0 <small><span style="opacity: 0.55;">February 21, 2026</span></small>
 * New: Added support for customizable keyboard shortcuts to move the current window to specific displays or Desktop Spaces.
 * Improved: Enhanced the overall stability and performance of the window management engine.
 * Fixed: Resolved an issue where the Cmd + ` shortcut exhibited inconsistent behavior during window switching.
 
-## 0.10.8
+## 0.10.8 <small><span style="opacity: 0.55;">February 12, 2026</span></small>
 * Fixed an issue where using cmd+` incorrectly triggered all window switchers
 * Fixed an occasional issue in Snap mode where releasing the mouse failed to place the window correctly
 
-## 0.10.7
+## 0.10.7 <small><span style="opacity: 0.55;">February 11, 2026</span></small>
 * Fixed mouse hover preview window delay on certain devices
 * Added window effect Toggle: Window movement animations, Border flash when switching between tiled and floating modes
 
-## 0.10.6
+## 0.10.6 <small><span style="opacity: 0.55;">February 11, 2026</span></small>
 * Fixed an issue where window previews would fail for windows positioned outside the screen bounds
 * Added an exclusion list for the Auto-Center Window on Open feature, allowing specific windows to opt out of automatic centering
 * Improved window layout behavior: windows smaller than the minimum size threshold now automatically expand and push adjacent windows forward to minimize overlap
 
-## 0.10.5
+## 0.10.5 <small><span style="opacity: 0.55;">February 9, 2026</span></small>
 * Window Switcher: Added an option to automatically move the cursor to the target window.
 * Improved the stability of layout refresh behavior.
 * Fixed multiple known issues reported by users.
 * Reduced the app package size.
 
-## 0.10.4
+## 0.10.4 <small><span style="opacity: 0.55;">February 6, 2026</span></small>
 * Fixed an issue where the Esc key input could be swallowed.
 * Improved the stability of layout refreshes.
 
-## 0.10.3
+## 0.10.3 <small><span style="opacity: 0.55;">February 6, 2026</span></small>
 * Fixed the issue where switching between multiple tabs could result in empty placeholders being left.
 * Fixed the problem where quitting the app using cmd + q still left a blank placeholder.
 * Brave Browser can now be tiled properly without issues.
 
-## 0.10.2
+## 0.10.2 <small><span style="opacity: 0.55;">February 5, 2026</span></small>
 * Fixed a bug where layouts would not work properly in multi-monitor scenarios
 * Fixed a bug where refresh would occasionally fail after app process termination
 * Cmd+Tab now supports mouse scroll for window switching, configurable in mouse actions
@@ -383,79 +383,79 @@
 * Fixed issue where diagonal mouse movements would trigger preview of adjacent applications in Dock preview window
 * Added Esc key support to exit Dock preview window
 
-## 0.10.1
+## 0.10.1 <small><span style="opacity: 0.55;">February 3, 2026</span></small>
 * Fixed anomalies when centering windows via shortcut in auto-tiling mode
 * Improved guidance and settings for window switcher vertical mode
 * Optimized UI for vertical mode window switcher
 
-## 0.10.0
+## 0.10.0 <small><span style="opacity: 0.55;">February 2, 2026</span></small>
 * Window switcher and Dock preview now support mouse and trackpad gestures with over a dozen configurable actions
 * Dock preview and switcher now support dynamic thumbnail refresh and minimized state display
 * When Option-drag is enabled, the system's Option+left-click function to hide previous window is dynamically disabled; it restores when switching to other modifier keys
 
-## 0.9.3
+## 0.9.3 <small><span style="opacity: 0.55;">January 29, 2026</span></small>
 * Optimized Cmd+Tab loading speed
 
-## 0.9.2
+## 0.9.2 <small><span style="opacity: 0.55;">January 28, 2026</span></small>
 * Fixed bug where windows were not handled correctly after Cmd+H in auto-layout mode
 * Fixed several bugs in WindowSwitcher list mode
 * Removed the 5-window limitation for Dock preview
 * Fixed various issues on macOS 15
 
-## 0.9.1
+## 0.9.1 <small><span style="opacity: 0.55;">January 27, 2026</span></small>
 * Added middle-click and right-click action options for Dock preview
 * Cmd+Tab now supports Cmd+` to select previous item
 * Fixed bug where shortcut cancellation would not be remembered
 * Fixed bug where switching between Snap/Tiling modes would not reset correctly
 
-## 0.9.0
+## 0.9.0 <small><span style="opacity: 0.55;">January 27, 2026</span></small>
 * Added window switcher list mode (with search)
 * Added window fine-tuning: auto-center newly opened windows
 * Fixed reported bugs
 
-## 0.8.7
+## 0.8.7 <small><span style="opacity: 0.55;">January 22, 2026</span></small>
 * Fixed bug where layout would fail when adding or removing monitors
 * Fixed bug where apps with startup dialogs could not auto-layout
 * Continued optimization of the complete snap assist experience
 
-## 0.8.6
+## 0.8.6 <small><span style="opacity: 0.55;">January 21, 2026</span></small>
 * Improved window group stability, fixed window misalignment issues across multiple spaces
 
-## 0.8.5
+## 0.8.5 <small><span style="opacity: 0.55;">January 21, 2026</span></small>
 * Fixed several layout-related bugs caused by underlying architecture changes
 * Fixed bug where conflicts with other apps caused layout to fail slowly
 
-## 0.8.4
+## 0.8.4 <small><span style="opacity: 0.55;">January 20, 2026</span></small>
 * Added: Click Dock icon to minimize active window
 
-## 0.8.3
+## 0.8.3 <small><span style="opacity: 0.55;">January 20, 2026</span></small>
 * Fixed ghost window bug that could occur in apps like WeChat
 * Fixed bug where auto-tiling windows were not working in snap assist mode
 * Overall optimization of interaction experience when dragging with modifier keys in snap assist mode
 * Fixed tiling issues with software like Adobe Illustrator
 
-## 0.8.2
+## 0.8.2 <small><span style="opacity: 0.55;">January 18, 2026</span></small>
 * New windows no longer flicker when not in tiled state
 * Fixed bug where regrouping after layout block dissolution could result in unexpected orientation
 * Small windows can now be moved into large windows to split them even in tiled state
 
-## 0.8.0
+## 0.8.0 <small><span style="opacity: 0.55;">January 18, 2026</span></small>
 * Refactored layout engine to use BSP (Binary Space Partitioning) layout
 * Changed default floating/tiling mode to snap assist/auto-flow layout
 * Added onboarding guide
 
-## 0.7.0
+## 0.7.0 <small><span style="opacity: 0.55;">January 10, 2026</span></small>
 * Added: Dock preview
 * Redesigned Cmd+Tab UI to maintain consistent style with Dock preview
 * Multiple liquid glass effects available
 * Customizable preview window size
 
-## 0.6.3
+## 0.6.3 <small><span style="opacity: 0.55;">January 7, 2026</span></small>
 * Greatly improved window stability
 * Added two sets of four-directional shortcuts: focus window and move window
 * Unified transition animation design for tiling/floating mode switching
 
-## 0.6.0
+## 0.6.0 <small><span style="opacity: 0.55;">January 5, 2026</span></small>
 * Added: Single window auto-float option (enabled by default)
 * Added: Real-time calculation of minimum window size to prevent windows from exceeding screen bounds whenever possible
 * Added: Pick window menu button
@@ -467,15 +467,15 @@
 * Optimized: Preset multiple floating window rules
 * Fixed: Issue where diagonal window resizing was not responsive
 
-## 0.5.5
+## 0.5.5 <small><span style="opacity: 0.55;">January 3, 2026</span></small>
 * Fixed bug that could intercept arrow keys
 * Correct refresh now occurs after dragging windows to different desktops in Mission Control
 * Added sticky window mode option for window switching
 
-## 0.5.3
+## 0.5.3 <small><span style="opacity: 0.55;">December 31, 2025</span></small>
 * Shortcut recording no longer triggers corresponding actions
 
-## 0.5.2
+## 0.5.2 <small><span style="opacity: 0.55;">December 31, 2025</span></small>
 * Added permission management page to resolve bug where app had no effect on first launch
 * Fixed several shortcut issues
 * Fixed issue where full-screen windows would not tile in certain scenarios
