@@ -1,38 +1,38 @@
-### 1.6.8 <small><span style="opacity: 0.55;">2026年10月1日</span></small>
+### v1.6.8 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年10月1日</span></small>
 - 优化了窗口切换器和 Dock 预览的整体体验与性能。
 - 修复了一些已知问题。
 
-### 1.6.7 <small><span style="opacity: 0.55;">2026年9月26日</span></small>
+### v1.6.7 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年9月26日</span></small>
 - 优化了窗口切换器和 Dock 预览的手势与鼠标交互体验。
 - 修复了使用三指或四指手势唤起窗口切换器时的一些问题。
 - 修复了退出 Mission Control 后有时未正确刷新 Tab 焦点状态的问题。
 - 修复了一个导致窗口状态无法正确刷新的问题。
 
-### 1.6.6 <small><span style="opacity: 0.55;">2026年9月24日</span></small>
+### v1.6.6 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年9月24日</span></small>
 - 新增 Dock 图标点击行为选项，可隐藏或取消隐藏应用。
 - 新增方向聚焦时跳过浮动窗口的选项。
 - 修复 macOS 27 上的一些兼容性问题。
 - 修复 macOS New Siri 窗口无法被管理的问题。
 - 修复从窗口任意位置拖动时，非激活窗口可能无法拖动的问题。
 
-### 1.6.5 <small><span style="opacity: 0.55;">2026年9月12日</span></small>
+### v1.6.5 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年9月12日</span></small>
 - 修复 macOS 27 RC 无动画切换桌面功能异常的问题。
 - 优化 Dock 预览体验。
 
-### 1.6.4 <small><span style="opacity: 0.55;">2026年9月10日</span></small>
+### v1.6.4 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年9月10日</span></small>
 - 窗口预览采用系统标准红绿灯按钮样式
 - 优化原生窗口预览交互体验
 - 修复点击 Dock 图标无法隐藏其他屏幕窗口的问题
 - 修复 Dock 图标放大倍数过高时悬停区域异常的问题
 - 修复特定修饰键设置下窗口切换器无法点击的问题
 
-### 1.6.3 <small><span style="opacity: 0.55;">2026年9月7日</span></small>
+### v1.6.3 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年9月7日</span></small>
 - 液态玻璃风格支持更多样式与颜色自定义
 - 支持调整 Space Indicator 的位置
 - 修复关闭最后一个窗口后进程未退出的问题
 - 修复其他已知问题
 
-## 1.6.2 <small><span style="opacity: 0.55;">2026年9月1日</span></small>
+### v1.6.2 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年9月1日</span></small>
 - 新增一键将所有悬浮窗口置于前台的功能。
 - 工作区背景新增“液态玻璃”效果选项。
 - Snap 模式现支持同时使用多个全屏窗口。
@@ -44,56 +44,56 @@
 - 修复其他已知问题。
 
 
-## 1.5.10 <small><span style="opacity: 0.55;">2026年8月23日</span></small>
+### v1.5.10 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年8月23日</span></small>
 - 修复了 macOS 27 桌面空间切换有黑屏的问题
 - 优化了窗口切换器和Dock预览的预览窗口切换过渡
 - 优化了平铺窗口调整大小时不跟手的问题
 - 修复窗口可能被误触发 FillScreen 的问题
 - 现在能正确管理 Bundle Identifier 为空的窗口了
 
-## 1.5.9 <small><span style="opacity: 0.55;">2026年8月21日</span></small>
+### v1.5.9 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年8月21日</span></small>
 - 支持为工作区中的每个 App 窗口配置启动命令。
 - 修复多个工作区相关问题。
 - 修复退出全屏后窗口未正确平铺的问题。
 
-## 1.5.8 <small><span style="opacity: 0.55;">2026年8月13日</span></small>
+### v1.5.8 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年8月13日</span></small>
 - 修复多个与填充窗口满屏功能相关的问题。
 
-## 1.5.7 <small><span style="opacity: 0.55;">2026年8月12日</span></small>
+### v1.5.7 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年8月12日</span></small>
 - 修复了全屏窗口在特定情况下意外退出全屏状态的问题。
 
-## 1.5.6 <small><span style="opacity: 0.55;">2026年8月10日</span></small>
+### v1.5.6 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年8月10日</span></small>
 - 修复 macOS 27 上无法即时切换Space的问题
 - 修复一个应用崩溃的问题
 - 窗口充满屏幕现遵循间距设置
 
-## 1.5.5 <small><span style="opacity: 0.55;">2026年8月6日</span></small>
+### v1.5.5 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年8月6日</span></small>
 - Snap 模式新增左右分屏：将窗口拖至屏幕左侧或右侧边缘即可平铺。
 - 修复了 Snap 模式中的若干问题。
 - 修复了 Electron 应用从标签页组中消失的问题。
 - 修复了竖版 Window Switcher 中输入法快速搜索异常的问题。
 
-## 1.5.4 <small><span style="opacity: 0.55;">2026年8月3日</span></small>
+### v1.5.4 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年8月3日</span></small>
 - 优化标签页拖出窗口时的处理逻辑，避免立即触发切分操作
 - 修复多个已知问题，提升稳定性
 
-## 1.5.3 <small><span style="opacity: 0.55;">2026年7月29日</span></small>
+### v1.5.3 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年7月29日</span></small>
 - 改进 App 内标签页切换检测机制，提升可靠性。
 - 修复多项外接显示器插拔导致的状态异常。
 - 预览窗口现已使用手型光标。
 
-## 1.5.2 <small><span style="opacity: 0.55;">2026年7月25日</span></small>
+### v1.5.2 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年7月25日</span></small>
 - 工作区现在会记住单窗口悬浮与填充屏幕的状态。
 - 修复 Tab 条偶尔跳转到其他 Space 的问题。
 - 重新实现任意位置拖动与调整大小，操作更流畅。
 - “均分窗口”更名为“平衡窗口”，支持动态平衡同向排列的窗口。
 
-## 1.5.1 <small><span style="opacity: 0.55;">2026年7月20日</span></small>
+### v1.5.1 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年7月20日</span></small>
 - 优化窗口切换：通过 Dock 预览或窗口切换器选择窗口时，会立即切换至其所在的空间。
 - 修复工作区恢复时对浮动窗口及单窗口悬浮模式的处理问题。
 - 修复单窗口悬浮模式下窗口位置记忆错乱的问题。
 
-## 1.5.0 <small><span style="opacity: 0.55;">2026年7月20日</span></small>
+### v1.5.0 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年7月20日</span></small>
 
 **新增功能**
 
@@ -119,7 +119,7 @@
 - 优化 Dock 预览与三角区菜单的悬停判定，减少误触。
 - 修复异常触觉反馈，并提升整体稳定性。
 
-## 1.2.4 <small><span style="opacity: 0.55;">2026年5月29日</span></small>
+### v1.2.4 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年5月29日</span></small>
 - 动流式布局：优新增同屏窗口切分支持。
 - 优化自动流式布局：优先切分时，新建窗口将正确切分，不再偶而进入Tab模式。
 - 单窗口悬浮模式现在会分别记忆各窗口位置，不再按屏幕共享位置记录。
@@ -129,46 +129,46 @@
 - 修复可能导致快捷键失效的问题。
 - 提升窗口关闭后的布局刷新响应速度。
 
-## 1.2.3 <small><span style="opacity: 0.55;">2026年5月22日</span></small>
+### v1.2.3 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年5月22日</span></small>
 - 修复可能导致应用崩溃的问题
 - 修复与 HyperKey 的兼容性问题
 - 修复偶发的窗口最小尺寸计算错误
 - 修复切换 Space 时未正确高亮当前活动窗口的问题
 
-## 1.2.2 <small><span style="opacity: 0.55;">2026年5月20日</span></small>
+### v1.2.2 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年5月20日</span></small>
 - 修复了一个部分应用冷启动后窗口无法被正确管理的问题。
 
-## 1.2.1 <small><span style="opacity: 0.55;">2026年5月19日</span></small>
+### v1.2.1 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年5月19日</span></small>
 - 修复了一个可能导致应用崩溃的问题。
 - 修复了某些情况下标签页显示异常的问题。
 
-## 1.2.0 <small><span style="opacity: 0.55;">2026年5月18日</span></small>
+### v1.2.0 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年5月18日</span></small>
 - 新增功能：单窗口浮动。
 - 修复休眠后启用“优先组成 Tab”时，窗口组会被重新组合的问题。
 - 修复自动流式模式下，部分窗口有时无法被管理的问题。
 - 调整“在窗口任意位置拖动窗口”的行为：按下修饰键后不会立即切换活动窗口。
 
-## 1.1.2 <small><span style="opacity: 0.55;">2026年5月14日</span></small>
+### v1.1.2 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年5月14日</span></small>
 - 修复窗口管理在部分场景下的异常问题
 - 优化底层引擎性能，提升运行流畅度
 - 改进系统休眠恢复后的稳定性
 
-## 1.1.1 <small><span style="opacity: 0.55;">2026年5月12日</span></small>
+### v1.1.1 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年5月12日</span></small>
 - 新增激活窗口边框高亮，并支持自定义样式。
 - 修复系统休眠后可能出现的窗口错乱问题。
 - 优化窗口切换器与 Dock 预览的鼠标悬停体验。
 
-## 1.1.0 <small><span style="opacity: 0.55;">2026年5月2日</span></small>
+### v1.1.0 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年5月2日</span></small>
 - 新增 Tab 交互：支持拆分窗口、合并为 Tab、交换窗口。
 - 修复多 Space 下 Tab 标签偶尔显示错乱的问题。
 - 修复窗口全屏或应用隐藏时窗口状态维护异常的问题。
 - 修复吸附模式下使用修饰键拖拽未激活窗口时无法吸附的问题。
 
-## 1.0.3 <small><span style="opacity: 0.55;">2026年4月29日</span></small>
+### v1.0.3 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年4月29日</span></small>
 - 修复全屏铺满窗口时无法分屏的问题
 - 修复全屏铺满窗口后，部分窗口偶尔无法被管理的问题
 
-## 1.0.2 <small><span style="opacity: 0.55;">2026年4月28日</span></small>
+### v1.0.2 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年4月28日</span></small>
 - 新增窗口铺满屏幕快捷键，默认 `Control + Option + F`。
 - 优化 Tangrid 窗口管理引擎，提升性能与稳定性。
 - 支持拖拽标签页时悬停切换窗口。
@@ -176,62 +176,62 @@
 - 改进窗口预览隐藏动画，减少快速切换时的闪烁。
 - 修复 Snap resize、最大化与全屏恢复相关问题。
 
-## 1.0.1 <small><span style="opacity: 0.55;">2026年4月23日</span></small>
+### v1.0.1 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年4月23日</span></small>
 - 优化底层性能，提升整体流畅度并降低卡顿风险
 - 新增“关闭最后一个窗口后退出应用”黑名单模式
 
-## 🎉 1.0.0 正式版 <small><span style="opacity: 0.55;">2026年4月21日</span></small>
+### 🎉 v1.0.0 正式版 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年4月21日</span></small>
 - 正式版上线，感谢各位 Beta 测试用户这段时间的支持与反馈
 - 新增支持关闭最后一个窗口后自动退出应用
 - 新增应用内语言切换支持
 
-## 0.14.12 <small><span style="opacity: 0.55;">2026年4月21日</span></small>
+### v0.14.12 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年4月21日</span></small>
 - 修复一项底层问题，提升鼠标与键盘事件的响应稳定性。
 
-## 0.14.11 <small><span style="opacity: 0.55;">2026年4月19日</span></small>
+### v0.14.11 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年4月19日</span></small>
 - 优化底层事件处理，提升整体稳定性。
 
-## 0.14.10 <small><span style="opacity: 0.55;">2026年4月15日</span></small>
+### v0.14.10 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年4月15日</span></small>
 - 修复了双击标题栏后进入全屏又意外退出的问题
 - 修复了一个可能导致应用卡死的潜在问题
 - 为窗口切换器和 Dock 预览新增了“重置设置”按钮
 
-## 0.14.9 <small><span style="opacity: 0.55;">2026年4月13日</span></small>
+### v0.14.9 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年4月13日</span></small>
 - 提升整体稳定性，优化多项功能模块的使用体验
 - 优化应用性能，带来更流畅的运行表现
 - 新增多语言支持：德语、日语、繁体中文
 
-## 0.14.8 <small><span style="opacity: 0.55;">2026年4月10日</span></small>
+### v0.14.8 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年4月10日</span></small>
 - 修复了标签模式下，全屏窗口在某些情况下无法正确加入标签页的问题
 - 支持使用鼠标中键关闭标签页
 - 优化了标签页背景显示，浅色模式搭配深色壁纸时不再出现异常变黑
 - 为 Flow 模式新增布局旋转和镜像功能
 - 优化了 Flow 模式的自动整理效果，窗口排列更加舒适自然
 
-## 0.14.7 <small><span style="opacity: 0.55;">2026年4月8日</span></small>
+### v0.14.7 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年4月8日</span></small>
 - 修复了一个可能导致应用闪退的问题  
 - 支持在多系统账户环境下独立运行 Tangrid  
 - 优化了闪烁边框的交互体验与视觉细节  
 - 改进了预览窗口较窄时的 Dock 预览界面显示  
 - 优化了系统从睡眠恢复后窗口异常跳动的问题  
 
-## 0.14.6 <small><span style="opacity: 0.55;">2026年4月4日</span></small>
+### v0.14.6 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年4月4日</span></small>
 - 修复窗口过渡动画偶发意外触发的问题
 - 优化 Dock 预览交互，鼠标滑动时不再误触发实时窗口位置
 - 提升焦点窗口相关操作的稳定性
 
-## 0.14.5 <small><span style="opacity: 0.55;">2026年3月31日</span></small>
+### v0.14.5 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年3月31日</span></small>
 - 修复了在切换系统外观（浅色/深色模式）时，标签页显示异常的问题
 - 修复了标签页预览窗口偶尔无法正常隐藏的问题
 - 优化了窗口切换的稳定性
 
-## 0.14.4 <small><span style="opacity: 0.55;">2026年3月30日</span></small>
+### v0.14.4 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年3月30日</span></small>
 - 标签页布局：尺寸相近的窗口现在会自动合并为标签页。
 - 性能提升：大幅提升 Cmd + Tab 的响应速度，并优化了整体的 CPU 与内存占用。
 - 视觉细节：最小化窗口的预览图新增黄色遮罩标识，状态更直观。
 - 稳定性：解决了一个可能导致应用意外退出的问题。
 
-## 0.14.3 <small><span style="opacity: 0.55;">2026年3月28日</span></small>
+### v0.14.3 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年3月28日</span></small>
 - 增自动流式布局选项，支持优先切分、优先标签堆叠、切分过小时自动堆叠。
 - 优化标签页的UX。
 - 优化窗口圆角描边弧度，完美匹配不同圆角样式。
@@ -239,66 +239,66 @@
 - 提升标签页布局与切分布局的稳定性。
 - 修复窗口预览偶尔无法正确消失的问题。
 
-## 0.14.2 <small><span style="opacity: 0.55;">2026年3月26日</span></small>
+### v0.14.2 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年3月26日</span></small>
 - 优化了标签页布局的交互体验，提升操作的一致性与可预见性。
 - 窗口切换器、Dock 预览和标签页现已支持窗口预览功能（默认关闭）。
 
-## 0.14.1 <small><span style="opacity: 0.55;">2026年3月25日</span></small>
+### v0.14.1 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年3月25日</span></small>
 - 全新应用图标
 - 优化标签页模式稳定性，减少设备休眠等场景下的意外退出
 
-## 0.14.0 <small><span style="opacity: 0.55;">2026年3月24日</span></small>
+### v0.14.0 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年3月24日</span></small>
 - 全新功能：自动流式布局现已支持标签页模式
 	- 为标签页模式提供两组快捷键
 	- 窗口移动与焦点切换快捷键现已适配标签页模式
 	- 改进自动流式布局的拖动交互，使标签页模式下的操作更直观
 - 修复：解决禁用窗口管理器后，部分快捷键未正确停用的问题
 
-## 0.13.9 <small><span style="opacity: 0.55;">2026年3月20日</span></small>
+### v0.13.9 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年3月20日</span></small>
 - 修复应用启动初期窗口切换器未默认选中第二项的问题
 - 优化 macOS 26 以下版本的窗口描边显示效果
 - 修复 Adobe Premiere 未被正确管理的问题
 
-## 0.13.8 <small><span style="opacity: 0.55;">2026年3月19日</span></small>
+### v0.13.8 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年3月19日</span></small>
 - 修复切换窗口时可能误激活非目标窗口的问题
 - 优化窗口取消最小化和新建时的动画表现，与窗口移动动画保持一致
 - 修复 Snap 模式下自动整理窗口时未正确处理浮动窗口名单的问题
 
-## 0.13.7 <small><span style="opacity: 0.55;">2026年3月17日</span></small>
+### v0.13.7 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年3月17日</span></small>
 - 修复使用 `Cmd + Q` 后窗口切换器默认选中异常的问题
 - 提升窗口管理状态的稳定性，优化多标签页窗口在关闭标签后的状态同步（比如：Ghostty）
 
-## 0.13.6 <small><span style="opacity: 0.55;">2026年3月16日</span></small>
+### v0.13.6 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年3月16日</span></small>
 - 优化窗口缩放：快捷键 +/- 现可在所有模式下生效，并支持通过修饰键配合鼠标滚轮快速调整窗口大小
 - 修复部分情况下设备唤醒后窗口无法被正确管理的问题
 - 修复 Snap 模式下重复按下 ⌘⇧R 时窗口位置发生偏移的问题
 - 修复 Snap 模式下部分多标签窗口切换标签页后无法正常吸附的问题
 
-## 0.13.5 <small><span style="opacity: 0.55;">2026年3月13日</span></small>
+### v0.13.5 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年3月13日</span></small>
 - 修复自动整理窗口功能没有展示的问题
 
-## 0.13.4 <small><span style="opacity: 0.55;">2026年3月13日</span></small>
+### v0.13.4 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年3月13日</span></small>
 - 修复“移动窗口到 Space/屏幕”快捷键修改后未立即生效的问题
 - 修复窗口频繁开关后，窗口切换器与 Dock 预览数量显示异常的问题
 - 修复窗口管理关闭时，部分功能启停状态异常的问题
 - 为 Snap 模式新增自动整理窗口功能, 默认快捷键 `Cmd + Shift + R`
 - 优化 `Cmd + `` 窗口切换顺序，使其与系统行为保持一致
 
-## 0.13.3 <small><span style="opacity: 0.55;">2026年3月11日</span></small>
+### v0.13.3 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年3月11日</span></small>
 - 新增在窗口切换器和 Dock 预览中对 `Cmd + Q`、`Cmd + W`、`Cmd + M` 快捷键的支持。
 - 修复部分窗口关闭后重新打开，未在窗口切换器和 Dock 预览中显示的问题。
 
-## 0.13.2 <small><span style="opacity: 0.55;">2026年3月9日</span></small>
+### v0.13.2 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年3月9日</span></small>
 - 修复：关闭窗口管理模块后，窗口行为异常的问题
 - 优化：窗口切换器与拖拽修饰键支持组合修饰键
 
-## 0.13.1 <small><span style="opacity: 0.55;">2026年3月7日</span></small>
+### v0.13.1 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年3月7日</span></small>
 - 新增 Dock 点击行为选项：仅单窗口应用时最小化(类似Windows操作系统)。
 - Window Switcher 现在可正确显示多进程组应用的窗口（Steam、Minecraft 等）。
 - 修复窗口操作在特定场景下不再错误回弹到原始桌面。
 - 提升切换焦点稳定性，减少偶发无法切换的问题。
 
-## 0.13.0 <small><span style="opacity: 0.55;">2026年3月5日</span></small>
+### v0.13.0 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年3月5日</span></small>
 **新功能**
 - 窗口预览卡片新增红黄绿控制按钮（关闭/最小化/全屏），支持左右位置自定义，覆盖 Window Switcher 与 Dock Preview。
 - 新增窗口切换增强交互：`⌘ + 数字` 可快速选择窗口，`/` 可在垂直切换器中快速聚焦/取消聚焦搜索框。
@@ -320,12 +320,12 @@
 **行为调整（需关注）**
 - 窗口规则逻辑简化为以 Flow 为核心：规则仅在 Auto Flow 模式下可编辑与生效，Snap 相关规则路径已移除。
 
-## 0.12.1 <small><span style="opacity: 0.55;">2026年2月27日</span></small>
+### v0.12.1 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年2月27日</span></small>
 * 修复拖拽修饰键影响“修饰键 + 左键点击”的问题。
 * 修复将 Fn 设为拖拽修饰键时不生效的问题。
 * 修复辅助吸附模式下，“鼠标修饰键 + 右键拖拽”无法调整窗口大小的问题。
 
-## 0.12.0 <small><span style="opacity: 0.55;">2026年2月26日</span></small>
+### v0.12.0 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年2月26日</span></small>
 * 新增“鼠标修饰键”，可在窗口任意位置移动与调整大小。
 * 按住拖拽修饰键时，现在可从窗口任意位置进行拖动。
 * 新增快捷键冲突提示，便于快速发现并处理冲突。
@@ -333,46 +333,46 @@
 * 下拉菜单现已显示全部快捷键。
 * 提升将窗口通过快捷键移动到桌面或显示器时的可靠性。
 
-## 0.11.1 <small><span style="opacity: 0.55;">2026年2月24日</span></small>
+### v0.11.1 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年2月24日</span></small>
 * 优化：修复关闭窗口后，窗口预览中的鼠标高亮显示异常问题。
 * 修复：解决“快捷键移动到其他桌面”在部分应用（如微信）窗口上不生效的问题。
 * 新增：窗口切换器范围选项，支持仅显示当前活动桌面的窗口。
 * 新增：支持通过快捷键快速调整窗口大小。
 
-## 0.11.0 <small><span style="opacity: 0.55;">2026年2月21日</span></small>
+### v0.11.0 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年2月21日</span></small>
 * 新功能：支持通过自定义快捷键将当前窗口快速移动至指定的显示器或桌面次序（Space）。
 * 优化：显著提升了窗口调度与管理逻辑的稳定性。
 * 修复：解决了快捷键 Cmd + ` 在多窗口切换时可能出现的异常行为。
 
-## 0.10.8 <small><span style="opacity: 0.55;">2026年2月12日</span></small>
+### v0.10.8 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年2月12日</span></small>
 * 修复使用 cmd+` 时误触发所有窗口切换器的问题
 * 修复 Snap 模式下偶发的窗口放置异常：松开鼠标后窗口有时无法正确摆放。
 
-## 0.10.7 <small><span style="opacity: 0.55;">2026年2月11日</span></small>
+### v0.10.7 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年2月11日</span></small>
 * 修复了部分设备上鼠标悬停预览窗口时出现延迟的问题
 * 新增窗口效果开关：窗口移动动画效果、切换平铺/浮动模式时的窗口边框闪烁提示
 
-## 0.10.6 <small><span style="opacity: 0.55;">2026年2月11日</span></small>
+### v0.10.6 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年2月11日</span></small>
 * 修复了窗口超出屏幕边界时预览失败的问题
 * 新增「自动居中打开窗口」功能的例外窗口设置，允许指定窗口跳过自动居中行为
 * 优化窗口布局逻辑：当窗口尺寸小于最小限制时，将自动扩展并向前推移相邻窗口，以减少窗口重叠
 
-## 0.10.5 <small><span style="opacity: 0.55;">2026年2月9日</span></small>
+### v0.10.5 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年2月9日</span></small>
 * 窗口切换器-新增自动移动光标到目标窗口
 * 提高布局刷新的稳定性
 * 修复多个反馈的已知错误
 * 减少包体积
 
-## 0.10.4 <small><span style="opacity: 0.55;">2026年2月6日</span></small>
+### v0.10.4 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年2月6日</span></small>
 * 修复esc键吞键的问题
 * 提高布局刷新的稳定性
 
-## 0.10.3 <small><span style="opacity: 0.55;">2026年2月6日</span></small>
+### v0.10.3 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年2月6日</span></small>
 * 修复多tab应用切换关闭可能造成的空占位的情况
 * 修复cmd q退出应用还有空白占位的问题
 * Brave浏览器现在不会无法平铺了
 
-## 0.10.2 <small><span style="opacity: 0.55;">2026年2月5日</span></small>
+### v0.10.2 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年2月5日</span></small>
 * 修复一个多显示器场景下布局不生效的bug
 * 修复了App进程关闭后，刷新偶尔错误的bug
 * Cmd tab 支持鼠标滚动切换窗口，可加入鼠标动作配置
@@ -383,79 +383,79 @@
 * Dock 预览窗口，鼠标斜向移动点击时会触发相邻应用的预览
 * Dock 预览窗口支持 Esc 键退出
 
-## 0.10.1 <small><span style="opacity: 0.55;">2026年2月3日</span></small>
+### v0.10.1 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年2月3日</span></small>
 * 修复自动平铺模式下，快捷键居中窗口出现的异常
 * 优化窗口切换器纵向模式的引导和设置
 * 优化了纵向模式窗口切换器的UI
 
-## 0.10.0 <small><span style="opacity: 0.55;">2026年2月2日</span></small>
+### v0.10.0 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年2月2日</span></small>
 * 窗口切换器、Dock预览支持鼠标和触控板手势，支持十多个动作设置
 * Dock预览器和切换器支持动态刷新缩略图、最小化状态
 * 设置Option拖动时，动态屏蔽系统的Option+左键点击隐藏上一个窗口的功能，更换其他修饰键时会恢复
 
-## 0.9.3 <small><span style="opacity: 0.55;">2026年1月29日</span></small>
+### v0.9.3 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年1月29日</span></small>
 * 优化cmd+tab的加载速度
 
-## 0.9.2 <small><span style="opacity: 0.55;">2026年1月28日</span></small>
+### v0.9.2 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年1月28日</span></small>
 * 修复自动布局时cmd+h后没有正确处理的bug
 * 修复WindowSwitcher列表模式的一些bug
 * 去除Dock预览5个窗口的限制
 * 修复在macOS 15的一些问题
 
-## 0.9.1 <small><span style="opacity: 0.55;">2026年1月27日</span></small>
+### v0.9.1 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年1月27日</span></small>
 * Dock预览新增鼠标中键、右键动作选项
 * cmd+tab 支持 cmd+` 选中上一个
 * 修复取消快捷键无法记住的bug
 * 修复切换Snap/Tiling模式切换后没有正确重置的bug
 
-## 0.9.0 <small><span style="opacity: 0.55;">2026年1月27日</span></small>
+### v0.9.0 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年1月27日</span></small>
 * 新增窗口切换器列表模式（带搜索）
 * 新增窗口微调：打开窗口自动居中
 * 修复bug反馈
 
-## 0.8.7 <small><span style="opacity: 0.55;">2026年1月22日</span></small>
+### v0.8.7 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年1月22日</span></small>
 * 修复增减显示器布局失效的bug
 * 修复部分启动时有弹窗的APP无法自动布局的bug
 * 持续优化吸附辅助的完整体验
 
-## 0.8.6 <small><span style="opacity: 0.55;">2026年1月21日</span></small>
+### v0.8.6 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年1月21日</span></small>
 * 提高了窗口组稳定性，修复多space窗口错乱的问题
 
-## 0.8.5 <small><span style="opacity: 0.55;">2026年1月21日</span></small>
+### v0.8.5 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年1月21日</span></small>
 * 修复底层架构变动导致的一些布局相关bug
 * 修复其他app冲突导致布局缓慢失效的bug
 
-## 0.8.4 <small><span style="opacity: 0.55;">2026年1月20日</span></small>
+### v0.8.4 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年1月20日</span></small>
 * 新增：点按Dock图标最小化活动窗口
 
-## 0.8.3 <small><span style="opacity: 0.55;">2026年1月20日</span></small>
+### v0.8.3 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年1月20日</span></small>
 * 修复微信等App可能出现幽灵窗口的bug
 * 修复吸附辅助模式自动平铺窗口没有起效的bug
 * 整体优化吸附辅助模式辅助键拖动时的交互体验
 * 修复Adobe Illustrator等软件无法平铺的问题
 
-## 0.8.2 <small><span style="opacity: 0.55;">2026年1月18日</span></small>
+### v0.8.2 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年1月18日</span></small>
 * 新建窗口非平铺状态不会闪烁
 * 修复布局块解散后重组可能出现方向与预期不一致的bug
 * 平铺状态也能把小窗口移到大窗口内分割大窗口
 
-## 0.8.0 <small><span style="opacity: 0.55;">2026年1月18日</span></small>
+### v0.8.0 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年1月18日</span></small>
 * 重构布局引擎，使用BSP布局
 * 默认悬浮/平铺模式 -> 吸附辅助/自动流式布局
 * Onboarding引导
 
-## 0.7.0 <small><span style="opacity: 0.55;">2026年1月10日</span></small>
+### v0.7.0 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年1月10日</span></small>
 * 新增：Dock预览
 * 重新设计了了CmdTab的UI，与Dock预览保持一致风格
 * 可选多种液态玻璃效果
 * 可自定义预览窗口尺寸
 
-## 0.6.3 <small><span style="opacity: 0.55;">2026年1月7日</span></small>
+### v0.6.3 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年1月7日</span></small>
 * 极大地提高了窗口的稳定性
 * 新增两组四向快捷键：聚焦窗口、移动窗口
 * 统一设计了平铺/悬浮转换的过渡动画
 
-## 0.6.0 <small><span style="opacity: 0.55;">2026年1月5日</span></small>
+### v0.6.0 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年1月5日</span></small>
 * 新增：单窗口自动浮动选项（默认打开）
 * 新增：实时计算窗口最小尺寸，尽量在任何时候让窗口不超出屏幕
 * 新增：拾取窗口菜单按钮
@@ -467,15 +467,15 @@
 * 优化：预置了多个悬浮窗口规则
 * 修复：斜着调整窗口尺寸不跟手的问题
 
-## 0.5.5 <small><span style="opacity: 0.55;">2026年1月3日</span></small>
+### v0.5.5 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年1月3日</span></small>
 * 解决了可能拦截方向键的bug
 * MissionControl拖拽窗口到不同桌面后会进行正确刷新
 * 窗口切换增加粘滞窗口模式选项
 
-## 0.5.3 <small><span style="opacity: 0.55;">2025年12月31日</span></small>
+### v0.5.3 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2025年12月31日</span></small>
 * 录入快捷键时不再触发响应动作
 
-## 0.5.2 <small><span style="opacity: 0.55;">2025年12月31日</span></small>
+### v0.5.2 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2025年12月31日</span></small>
 * 新增授权管理页，解决首次启动没有效果的bug
 * 修复快捷键的一些问题
 * 修复全屏窗在某些场景不平铺的问题
