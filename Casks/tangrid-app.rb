@@ -1,6 +1,6 @@
 cask "tangrid-app" do
   version "1.6.9"
-  sha256 "08d6ef03cb053786fc2bb79cbc1b1127c399f2b39adead5b6800e61ab9c27a7c"
+  sha256 "c7c08f9e54d0ce062ea2ba532903b0429b76203c7ee6d87b2c23f71110a7957a"
 
   url "https://github.com/winddpan/Tangrid/releases/download/1.6.9/tangrid-1.6.9.zip"
   name "Tangrid"
