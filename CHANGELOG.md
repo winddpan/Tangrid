@@ -1,3 +1,9 @@
+### v1.6.9 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">October 9, 2026</span></small>
+- The Dock can now stay visible during Dock Preview even when Dock auto-hide is enabled.
+- Improved Window Switcher startup speed.
+- When previewing the selected window at its original position, its Space is now shown in the top-left corner.
+- Fixed known issues reported by users.
+
 ### v1.6.8 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">October 1, 2026</span></small>
 - Improved the overall experience and performance of Window Switcher and Dock Preview.
 - Fixed some known issues.

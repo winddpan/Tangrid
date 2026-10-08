@@ -1,3 +1,9 @@
+### v1.6.9 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年10月9日</span></small>
+- 开启 Dock 自动隐藏后，使用 Dock 预览时也能保持 Dock 显示。
+- 优化了窗口切换器的启动速度。
+- 在原位置实时预览选中窗口时，左上角现在会显示该窗口所在的 Space。
+- 修复了一些用户反馈的已知问题。
+
 ### v1.6.8 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年10月1日</span></small>
 - 优化了窗口切换器和 Dock 预览的整体体验与性能。
 - 修复了一些已知问题。
