@@ -1,3 +1,10 @@
+### v1.6.10 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">October 11, 2026</span></small>
+- Improved Window Switcher startup speed by 30%.
+- Improved search in the vertical Window Switcher: press Space to activate search, or start typing keywords to search directly.
+- Improved original window previews with support for the Display P3 color gamut.
+- Precisely calculated Dock Preview positioning for consistent placement across different Dock icon magnification levels.
+- Added French language support.
+
 ### v1.6.9 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">October 9, 2026</span></small>
 - The Dock can now stay visible during Dock Preview even when Dock auto-hide is enabled.
 - Improved Window Switcher startup speed.

@@ -1,3 +1,10 @@
+### v1.6.10 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年10月11日</span></small>
+- 窗口切换器的启动速度提升 30%。
+- 优化纵向窗口切换器的搜索交互，支持按空格键激活搜索，或直接输入关键词进行搜索。
+- 优化原始窗口预览，支持 Display P3 色域。
+- 精确计算 Dock 预览窗口的位置，确保不同 Dock 图标放大倍数下的定位效果一致。
+- 新增法语支持。
+
 ### v1.6.9 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年10月9日</span></small>
 - 开启 Dock 自动隐藏后，使用 Dock 预览时也能保持 Dock 显示。
 - 优化了窗口切换器的启动速度。
