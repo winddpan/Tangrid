@@ -1,3 +1,7 @@
+## 1.6.99 Beta
+- Workspace v2 comming
+- Workspace supports web browser muti tabs
+
 ## 1.6.1 Beta
 - Added: Bring all floating windows to the front
 - Fixed: Incorrect window indexing with multiple tabs
