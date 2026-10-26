@@ -1,3 +1,6 @@
+## 1.6.100 Beta
+- some Workspace v2 upgrade
+
 ## 1.6.99 Beta
 - Workspace v2 comming
 - Workspace supports web browser muti tabs
