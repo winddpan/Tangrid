@@ -1,4 +1,4 @@
-### 1.6.101 Beta
+### 1.6.102 Beta
 - Spacset Beta is now available. Download it from the Tangrid menu bar.
 - Window tabs now display unread counts.
 - Fixed several known issues.
