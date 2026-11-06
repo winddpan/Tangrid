@@ -13,12 +13,12 @@
       <sparkle:criticalUpdate sparkle:version="1.6.8" />
     </item>
     <item>
-      <title>Version 1.6.102-beta</title>
+      <title>Version 1.6.103-beta</title>
       <sparkle:releaseNotesLink xml:lang="en">https://raw.githubusercontent.com/winddpan/Tangrid/refs/heads/main/CHANGELOG-beta.md</sparkle:releaseNotesLink>
       <sparkle:releaseNotesLink xml:lang="zh-CN">https://raw.githubusercontent.com/winddpan/Tangrid/refs/heads/main/CHANGELOG-CN-beta.md</sparkle:releaseNotesLink>
-      <pubDate>Thu, 05 Nov 2026 20:08:40 +0800</pubDate>
+      <pubDate>Sat, 07 Nov 2026 04:25:08 +0800</pubDate>
       <sparkle:channel>beta</sparkle:channel>
-      <enclosure url="https://github.com/winddpan/Tangrid/releases/download/1.6.102-beta/tangrid-1.6.102-beta.zip" sparkle:version="1.6.102-beta" sparkle:shortVersionString="1.6.102-beta" length="20704581" sparkle:edSignature="kFO+yyvELDZjjBGpaLtQ42SQmY0w+jDqbzOD7C/C/SkKUoCFgm+MxM7H3GyNlJ8GGzkzlXr60c0wcpEpe4sMBw==" type="application/octet-stream" />
+      <enclosure url="https://github.com/winddpan/Tangrid/releases/download/1.6.103-beta/tangrid-1.6.103-beta.zip" sparkle:version="1.6.103-beta" sparkle:shortVersionString="1.6.103-beta" length="20670240" sparkle:edSignature="QktiEhRwUknd7cV+22Hph2cQeDsOnil4RWkbeBj9ZdCl2MgDCwPtv4bTG8elnIZEomB/u/2eeIq4SmiR2YgLBQ==" type="application/octet-stream" />
       <sparkle:criticalUpdate sparkle:version="1.6.8" />
     </item>
   </channel>

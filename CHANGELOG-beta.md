@@ -1,3 +1,7 @@
+### 1.6.103 Beta
+- Fixed an issue that prevented windows from being managed properly.
+- Fixed an issue where the tab bar could not display full titles.
+
 ### 1.6.102 Beta
 - Spacset Beta is now available. Download it from the Tangrid menu bar.
 - Window tabs now display unread counts.
