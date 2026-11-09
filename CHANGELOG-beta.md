@@ -1,3 +1,6 @@
+### 1.6.104 Beta
+- Compatible with spaceset 0.2.0-beta
+
 ### 1.6.103 Beta
 - Fixed an issue that prevented windows from being managed properly.
 - Fixed an issue where the tab bar could not display full titles.
