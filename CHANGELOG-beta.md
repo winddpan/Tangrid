@@ -1,3 +1,6 @@
+### 1.6.110 Beta
+- Added Tangrid CLI
+
 ### 1.6.104 Beta
 - Compatible with spaceset 0.2.0-beta
 
