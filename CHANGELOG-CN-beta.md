@@ -1,3 +1,6 @@
+### 1.6.111 Beta
+- Tangrid CLI 新增命令
+
 ### 1.6.110 Beta
 - 新增Tangrid CLI
 
