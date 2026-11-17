@@ -1,3 +1,14 @@
+### v1.7.0 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">November 18, 2026</span></small>
+**New Features**
+- Upgraded Workspace to a standalone app: Spaceset. It now supports multiple browser tabs. You can download Spaceset from the Tangrid menu bar.
+- Added Tangrid CLI for managing windows and layouts from the command line.
+- Window tabs now display unread counts.
+
+**Improvements and Fixes**
+- Fixed an issue that prevented windows from being managed properly.
+- Fixed an issue where the tab bar could not display full titles.
+- Fixed several known issues.
+
 ### v1.6.10 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">October 11, 2026</span></small>
 - Improved Window Switcher startup speed by 30%.
 - Improved search in the vertical Window Switcher: press Space to activate search, or start typing keywords to search directly.

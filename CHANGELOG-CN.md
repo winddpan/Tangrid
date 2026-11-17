@@ -1,3 +1,14 @@
+### v1.7.0 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年11月18日</span></small>
+**新增功能**
+- 工作区升级至独立App: Spaceset，支持浏览器多标签页。可从Tangrid菜单栏下载Spaceset。
+- 新增 Tangrid CLI，可通过命令行管理窗口和布局。
+- 窗口标签页支持显示未读数。
+
+**优化与修复**
+- 修复窗口无法正常被管理的问题。
+- 修复标签栏无法显示完整标题的问题。
+- 修复若干已知问题。
+
 ### v1.6.10 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年10月11日</span></small>
 - 窗口切换器的启动速度提升 30%。
 - 优化纵向窗口切换器的搜索交互，支持按空格键激活搜索，或直接输入关键词进行搜索。
