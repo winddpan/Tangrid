@@ -10,7 +10,7 @@
       <sparkle:releaseNotesLink xml:lang="zh-CN">https://raw.githubusercontent.com/winddpan/Tangrid/refs/heads/main/CHANGELOG-CN.md</sparkle:releaseNotesLink>
       <pubDate>Wed, 18 Nov 2026 04:02:45 +0800</pubDate>
       <enclosure url="https://github.com/winddpan/Tangrid/releases/download/1.7.0/tangrid-1.7.0.zip" sparkle:version="1.7.0" sparkle:shortVersionString="1.7.0" length="22943950" sparkle:edSignature="K4HC0D+PTYr4EUOAbpzrD9idW/Gfxwf83GYXPscwaB5E0FgjV3AwIcoCTJC+1k0zWP3De6QuBuGnRuwIAHnYAw==" type="application/octet-stream" />
-      <sparkle:criticalUpdate sparkle:version="1.7.0" />
+      <sparkle:criticalUpdate sparkle:version="1.6.10" />
     </item>
     <item>
       <title>Version 1.7.0</title>
@@ -19,7 +19,7 @@
       <pubDate>Wed, 18 Nov 2026 04:02:45 +0800</pubDate>
       <sparkle:channel>beta</sparkle:channel>
       <enclosure url="https://github.com/winddpan/Tangrid/releases/download/1.7.0/tangrid-1.7.0.zip" sparkle:version="1.7.0" sparkle:shortVersionString="1.7.0" length="22943950" sparkle:edSignature="K4HC0D+PTYr4EUOAbpzrD9idW/Gfxwf83GYXPscwaB5E0FgjV3AwIcoCTJC+1k0zWP3De6QuBuGnRuwIAHnYAw==" type="application/octet-stream" />
-      <sparkle:criticalUpdate sparkle:version="1.7.0" />
+      <sparkle:criticalUpdate sparkle:version="1.6.10" />
     </item>
   </channel>
 </rss>
