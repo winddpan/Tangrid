@@ -1,3 +1,8 @@
+### v1.7.1 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">November 21, 2026</span></small>
+- Fixed a crash on a specific macOS version.
+- Fixed an issue where window management might not activate on multi-display setups after waking from sleep.
+- Tangrid CLI now supports concurrent operations across different windows.
+
 ### v1.7.0 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">November 18, 2026</span></small>
 **New Features**
 - Upgraded Workspace to a standalone app: Spaceset. It now supports multiple browser tabs. You can download Spaceset from the Tangrid menu bar.

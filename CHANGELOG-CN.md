@@ -1,3 +1,8 @@
+### v1.7.1 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年11月21日</span></small>
+- 修复了一个特定系统版本的闪退问题。
+- 修复了多显示器在休眠恢复后可能无法激活窗口管理的问题。
+- Tangrid CLI 现在支持对不同窗口进行并发操作。
+
 ### v1.7.0 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年11月18日</span></small>
 **新增功能**
 - 工作区升级至独立App: Spaceset，支持浏览器多标签页。可从Tangrid菜单栏下载Spaceset。
