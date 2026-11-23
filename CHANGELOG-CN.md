@@ -1,3 +1,7 @@
+### v1.7.2 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">November 22, 2026</span></small>
+- 新增功能：桌面空间切换器
+- 优化了内存占用
+
 ### v1.7.1 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">2026年11月21日</span></small>
 - 修复了一个特定系统版本的闪退问题。
 - 修复了多显示器在休眠恢复后可能无法激活窗口管理的问题。

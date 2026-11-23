@@ -1,3 +1,7 @@
+### v1.7.2 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">November 22, 2026</span></small>
+- New feature: Desktop Switcher
+- Optimized memory usage
+
 ### v1.7.1 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">November 21, 2026</span></small>
 - Fixed a crash on a specific macOS version.
 - Fixed an issue where window management might not activate on multi-display setups after waking from sleep.
