@@ -1,3 +1,7 @@
+### v1.7.3 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">November 25, 2026</span></small>
+- Fixed an issue where previews in the desktop switcher were not updating promptly.
+- Fixed an issue in Tab Grouping where internal windows did not refresh properly when the CLI: tangrid flow pause
+
 ### v1.7.2 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">November 22, 2026</span></small>
 - New feature: Desktop Switcher
 - Optimized memory usage

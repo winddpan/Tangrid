@@ -1,3 +1,7 @@
+### v1.7.3 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">November 25, 2026</span></small>
+- 修复了桌面切换器预览图没有及时更新的问题
+- 修复了Tab Grouping在CLI tangrid flow pause时内部窗口关闭无法正确刷新的问题
+
 ### v1.7.2 <small><span style="display: inline-block; margin-left: 1em; opacity: 0.55;">November 22, 2026</span></small>
 - 新增功能：桌面空间切换器
 - 优化了内存占用

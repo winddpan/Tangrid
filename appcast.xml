@@ -5,19 +5,11 @@
     <link>https://github.com/winddpan/Tangrid</link>
     <description>Tangrid Updates</description>
     <item>
-      <title>Version 1.7.2</title>
+      <title>Version 1.7.3</title>
       <sparkle:releaseNotesLink xml:lang="en">https://raw.githubusercontent.com/winddpan/Tangrid/refs/heads/main/CHANGELOG.md</sparkle:releaseNotesLink>
       <sparkle:releaseNotesLink xml:lang="zh-CN">https://raw.githubusercontent.com/winddpan/Tangrid/refs/heads/main/CHANGELOG-CN.md</sparkle:releaseNotesLink>
-      <pubDate>Mon, 23 Nov 2026 08:34:06 +0800</pubDate>
-      <enclosure url="https://github.com/winddpan/Tangrid/releases/download/1.7.2/tangrid-1.7.2.zip" sparkle:version="1.7.2" sparkle:shortVersionString="1.7.2" length="23559845" sparkle:edSignature="bSjYLXKomQoqaUradTIlf7XTsaHRffygh7X6UrNw4rZSNa2j9ecducuzspfnpd3h/jBWRvbUhKUnG68V6Jc2Cw==" type="application/octet-stream" />
-      <sparkle:criticalUpdate sparkle:version="1.6.10" />
-    </item>
-    <item>
-      <title>Version 1.7.2</title>
-      <sparkle:releaseNotesLink xml:lang="en">https://raw.githubusercontent.com/winddpan/Tangrid/refs/heads/main/CHANGELOG.md</sparkle:releaseNotesLink>
-      <sparkle:releaseNotesLink xml:lang="zh-CN">https://raw.githubusercontent.com/winddpan/Tangrid/refs/heads/main/CHANGELOG-CN.md</sparkle:releaseNotesLink>
-      <pubDate>Mon, 23 Nov 2026 08:34:06 +0800</pubDate>
-      <enclosure url="https://github.com/winddpan/Tangrid/releases/download/1.7.2/tangrid-1.7.2.zip" sparkle:version="1.7.2" sparkle:shortVersionString="1.7.2" length="23559845" sparkle:edSignature="bSjYLXKomQoqaUradTIlf7XTsaHRffygh7X6UrNw4rZSNa2j9ecducuzspfnpd3h/jBWRvbUhKUnG68V6Jc2Cw==" type="application/octet-stream" />
+      <pubDate>Wed, 25 Nov 2026 16:51:29 +0800</pubDate>
+      <enclosure url="https://github.com/winddpan/Tangrid/releases/download/1.7.3/tangrid-1.7.3.zip" sparkle:version="1.7.3" sparkle:shortVersionString="1.7.3" length="23628626" sparkle:edSignature="rMiRTt7jiOFr/CAw8q0rr1ja6eKeUH7kF2ZhP+1sMIeZv1mFUmGOvJ39LS2eJZMljNsN0tpjiuAKc6V+bs/TBw==" type="application/octet-stream" />
       <sparkle:criticalUpdate sparkle:version="1.6.10" />
     </item>
   </channel>
